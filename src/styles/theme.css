@@ -1411,11 +1411,14 @@ small {
   color: var(--color-text);
 }
 .blog-content a {
-  color: var(--color-accent);
+  color: var(--color-primary);
   font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 .blog-content a:hover {
-  color: var(--color-accent-dark);
+  color: var(--color-primary-dark);
+  text-decoration: underline;
 }
 
 /* Blog hero tweaks */
