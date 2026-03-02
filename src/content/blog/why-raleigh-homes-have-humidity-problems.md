@@ -14,7 +14,7 @@ Raleigh has a humidity problem — and most homes in Wake County were built in a
 
 ## Raleigh's Climate Creates Constant Moisture Pressure
 
-![Raleigh NC neighborhood homes typical of Wake County construction](/images/blog/raleigh-neighborhood.webp)
+<img src="/images/blog/raleigh-neighborhood.webp" alt="Raleigh NC neighborhood homes typical of Wake County construction" width="1200" height="904" loading="lazy">
 
 Raleigh sits in a humid subtropical climate zone — the same classification as Atlanta, Houston, and coastal South Carolina. That means hot, wet summers with very little relief.
 
@@ -44,7 +44,7 @@ If your home has open foundation vents, they are likely making your crawlspace w
 
 ## Wake County's Clay Soil Adds Ground Moisture Year-Round
 
-![Red clay soil common in Wake County NC](/images/blog/wake-county-clay-soil.webp)
+<img src="/images/blog/wake-county-clay-soil.webp" alt="Red clay soil common in Wake County NC" width="1200" height="675" loading="lazy">
 
 The red clay soil common throughout the Triangle isn't just hard to dig — it's a chronic moisture source beneath your home.
 
@@ -91,12 +91,13 @@ The right approach depends on your home's construction, crawlspace size, existin
 
 ---
 
-## Start With a Crawlspace Inspection
-
-If your home was built with a vented crawlspace and you're noticing musty odors, condensation, or floor movement, humidity is almost certainly the underlying issue. The good news: it's a solvable problem with the right system in place.
-
-We inspect crawlspaces and measure whole-home humidity conditions across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina.
-
-[Schedule a Crawlspace Inspection](/contact) &nbsp;&nbsp; [(984) 600-3650](tel:9846003650)
-
-_Straight answers. Clear measurements. A practical plan to fix it._
+<div class="blog-final-cta">
+<h3>Start With a Crawlspace Inspection</h3>
+<p>If your home was built with a vented crawlspace and you're noticing musty odors, condensation, or floor movement, humidity is almost certainly the underlying issue. The good news: it's a solvable problem with the right system in place.</p>
+<p>We inspect crawlspaces and measure whole-home humidity conditions across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina.</p>
+<div class="blog-final-cta-buttons">
+<a href="/contact" class="btn btn-green btn-lg">Schedule a Crawlspace Inspection</a>
+<a href="tel:9846003650" class="btn-call btn-call--light" aria-label="Call Triangle Dehumidifiers at (984) 600-3650"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.6 3.18 2 2 0 0 1 3.59 1h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.96a16 16 0 0 0 5.89 5.89l.92-.92a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> (984) 600-3650</a>
+</div>
+<p class="blog-final-cta-region"><em>Straight answers. Clear measurements. A practical plan to fix it.</em></p>
+</div>
