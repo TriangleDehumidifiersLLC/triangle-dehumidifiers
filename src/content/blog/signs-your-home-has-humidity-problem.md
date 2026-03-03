@@ -1,7 +1,7 @@
 ---
 title: '5 Signs Your Home Has a Humidity Problem'
 description: 'High indoor humidity can cause musty odors, warped floors, condensation, and mold. Here are 5 warning signs Raleigh homeowners should never ignore — and what to do about each.'
-date: '2025-02-15'
+date: '2026-02-15'
 author: 'Triangle Dehumidifiers'
 image: '/images/blog/crawlspace-moisture-raleigh.webp'
 imageAlt: 'Moisture damage visible in a Raleigh area crawlspace'
