@@ -290,9 +290,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               business day.
             </p>
             <script>
-              document.getElementById('email').addEventListener('change', function () {
-                document.getElementById('replyto').value = this.value;
-              });
+              const emailInput = document.getElementById('email');
+              const replytoInput = document.getElementById('replyto');
+              if (emailInput && replytoInput) {
+                emailInput.addEventListener('change', function () {
+                  replytoInput.value = this.value;
+                });
+              }
             </script>
           </form>
         </div>
