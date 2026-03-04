@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page Not Found | Triangle Dehumidifiers"
+  description="The page you're looking for doesn't exist. Return to Triangle Dehumidifiers homepage."
+>
+  <style>
+    .not-found {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 4rem 1rem;
+      min-height: 60vh;
+    }
+    .not-found__code {
+      font-size: 5rem;
+      font-weight: 800;
+      color: var(--color-accent);
+      line-height: 1;
+      margin-bottom: 1rem;
+    }
+    .not-found__actions {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin-top: 2rem;
+    }
+    @media (max-width: 600px) {
+      .not-found__actions {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+
+  <section class="not-found">
+    <div class="container">
+      <div class="not-found__code">404</div>
+      <h1>Page Not Found</h1>
+      <p class="svc-hero__sub">
+        The page you're looking for doesn't exist. It may have moved or the URL may be incorrect.
+      </p>
+      <div class="not-found__actions">
+        <a href="/" class="btn btn-green">Back to Home</a>
+        <a href="/contact" class="btn btn-secondary">Contact Us</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
