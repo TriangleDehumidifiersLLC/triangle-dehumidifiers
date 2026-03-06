@@ -1,8 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- Triangle outline only, no fill -->
-  <polygon points="50,6 94,88 6,88" fill="none" stroke="#1B3A6B" stroke-width="7" stroke-linejoin="round" />
-  <!-- Blue raindrop (left of center) -->
-  <path d="M40,24 C40,24 28,48 28,60 C28,67.7 33.4,74 40,74 C46.6,74 52,67.7 52,60 C52,48 40,24 40,24Z" fill="#2EA8DC" />
-  <!-- Green leaf (right of center) -->
-  <path d="M62,34 C78,34 82,58 66,72 C58,58 56,44 62,34Z" fill="#4DB655" />
+  <defs>
+    <clipPath id="tri">
+      <polygon points="50,10 90,87 10,87" />
+    </clipPath>
+  </defs>
+  <!-- Triangle: white interior, dark navy border -->
+  <polygon points="50,5 94,87 6,87" fill="white" stroke="#1B3A6B" stroke-width="8" stroke-linejoin="miter" />
+  <!-- Clip contents to triangle interior -->
+  <g clip-path="url(#tri)">
+    <!-- Green wave at bottom -->
+    <path d="M0,87 L0,72 C18,55 36,74 50,67 C64,60 82,76 100,65 L100,87 Z" fill="#5B8C2E" />
+    <!-- Blue water droplet -->
+    <path d="M50,16 C50,16 39,38 39,51 C39,57.3 44,62 50,62 C56,62 61,57.3 61,51 C61,38 50,16 50,16Z" fill="#3AADDE" />
+  </g>
 </svg>
