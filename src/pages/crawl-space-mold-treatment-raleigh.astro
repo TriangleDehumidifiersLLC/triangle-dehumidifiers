@@ -138,18 +138,26 @@ const faqSchema = {
                 <svg
                   viewBox="0 0 24 24"
                   fill="none"
-                  stroke="currentColor"
+                  stroke="#7a4a1a"
                   stroke-width="1.5"
                   stroke-linecap="round"
                   stroke-linejoin="round"
-                 aria-hidden="true">
-                  <!-- gauge meter -->
-                  <path d="M5.1 19a9 9 0 1 1 13.8 0" stroke-linecap="round"></path>
-                  <path d="M12 11l-3.5 4" stroke-linecap="round"></path>
-                  <circle cx="12" cy="15.5" r="1.2" fill="currentColor"></circle>
-                  <line x1="7" y1="14" x2="8.2" y2="14.7" stroke-linecap="round"></line>
-                  <line x1="17" y1="14" x2="15.8" y2="14.7" stroke-linecap="round"></line>
-                  <line x1="12" y1="6" x2="12" y2="7.5" stroke-linecap="round"></line>
+                  aria-hidden="true">
+                  <!-- Ground line -->
+                  <line x1="2" y1="21" x2="22" y2="21" stroke-width="2"/>
+                  <!-- Ground texture dots -->
+                  <circle cx="5" cy="22.5" r="0.5" fill="#7a4a1a" stroke="none"/>
+                  <circle cx="12" cy="22.8" r="0.4" fill="#7a4a1a" stroke="none"/>
+                  <circle cx="19" cy="22.5" r="0.5" fill="#7a4a1a" stroke="none"/>
+                  <!-- Wavy vapor arrow 1 -->
+                  <path d="M7 19c1.5-2 1.5-4 0-6s-1.5-4 0-6"/>
+                  <polyline points="5.5 9 7 6 8.5 9"/>
+                  <!-- Wavy vapor arrow 2 -->
+                  <path d="M12 19c1.5-2 1.5-4 0-6s-1.5-4 0-6"/>
+                  <polyline points="10.5 9 12 6 13.5 9"/>
+                  <!-- Wavy vapor arrow 3 -->
+                  <path d="M17 19c1.5-2 1.5-4 0-6s-1.5-4 0-6"/>
+                  <polyline points="15.5 9 17 6 18.5 9"/>
                 </svg>
               </span>
               <div>
