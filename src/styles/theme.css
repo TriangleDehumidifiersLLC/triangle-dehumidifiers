@@ -384,6 +384,12 @@ li {
   border: 1px solid rgba(18, 47, 91, 0.18);
   white-space: nowrap;
 }
+.pill svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
 @media (max-width: 600px) {
   .trust-pills {
     flex-wrap: wrap;
@@ -419,8 +425,13 @@ li {
   font-weight: 600;
 }
 .trust-icon {
-  color: var(--color-accent-dark);
+  color: var(--color-accent-light);
   font-size: 0.7rem;
+}
+.trust-icon svg {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
 }
 
 /* ============================================
@@ -569,6 +580,11 @@ li {
   font-weight: 700;
   font-size: 1.2rem;
   flex-shrink: 0;
+}
+.check svg {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
 }
 
 /* ============================================
@@ -1158,8 +1174,8 @@ small {
   color: var(--color-primary);
 }
 .icon-card__icon svg {
-  width: 36px;
-  height: 36px;
+  width: 28px;
+  height: 28px;
 }
 .icon-card__icon--green svg {
   stroke: #4a7c3f;
@@ -1184,6 +1200,11 @@ small {
   color: var(--color-text-light);
   margin: 0;
   line-height: 1.4;
+}
+.card-icon svg {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
 }
 
 /* ============================================
@@ -1210,6 +1231,12 @@ small {
   font-size: 1rem;
   flex-shrink: 0;
 }
+.feature-check svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
 
 /* ============================================
    SERVICE PAGE — SIGNS GRID
@@ -1233,8 +1260,8 @@ small {
   margin-bottom: 0.6rem;
 }
 .sign-card__icon svg {
-  width: 36px;
-  height: 36px;
+  width: 28px;
+  height: 28px;
 }
 .sign-card p {
   font-size: 0.88rem;
