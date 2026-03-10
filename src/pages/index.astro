@@ -352,15 +352,15 @@ const schema = {
       }
 
       function slide(animate) {
+        var step = getStep(); /* Read layout before writing styles */
         if (animate === false) {
           track.style.transition = 'none';
-        } else {
-          track.style.transition = 'transform 1.4s cubic-bezier(0.25, 0.1, 0.25, 1)';
-        }
-        track.style.transform = 'translateX(-' + idx * getStep() + 'px)';
-        if (animate === false) {
+          track.style.transform = 'translateX(-' + idx * step + 'px)';
           /* Force reflow so the instant jump is applied */
           track.offsetHeight;
+        } else {
+          track.style.transition = 'transform 1.4s cubic-bezier(0.25, 0.1, 0.25, 1)';
+          track.style.transform = 'translateX(-' + idx * step + 'px)';
         }
       }
 
