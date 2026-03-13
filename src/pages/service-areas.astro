@@ -42,17 +42,48 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           Primary &amp; Extended Service Area
         </p>
         <div style="border-radius:var(--radius-md);overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.10);">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d541213.1673605165!2d-78.82169149999999!3d35.84062555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2126c9cf824e241d%3A0x883595d6b0c9b047!2sTriangle%20Dehumidifiers%2C%20LLC!5e1!3m2!1sen!2sus!4v1773372401756!5m2!1sen!2sus"
-            width="100%"
-            height="450"
-            style="border:0;display:block;"
-            allowfullscreen=""
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
-            title="Triangle Dehumidifiers service area map — Raleigh, Cary, Apex, Holly Springs, Wake County NC"
-          ></iframe>
+          <div
+            id="map-facade"
+            role="button"
+            tabindex="0"
+            aria-label="Load service area map"
+            style="position:relative;width:100%;height:450px;background:linear-gradient(135deg,#e8edf5 0%,#d0dae8 100%);display:flex;align-items:center;justify-content:center;cursor:pointer;flex-direction:column;gap:0.75rem;"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#122f5b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <p style="font-weight:700;font-size:1.1rem;color:#122f5b;margin:0;">Triangle Dehumidifiers Service Area</p>
+            <p style="color:#4a5a6a;font-size:0.9rem;margin:0;">Raleigh, Cary, Apex, Holly Springs &amp; Wake County NC</p>
+            <button
+              id="map-load-btn"
+              style="margin-top:0.5rem;background:#1e6b3c;color:#fff;border:none;border-radius:6px;padding:0.55rem 1.4rem;font-size:0.95rem;font-weight:600;cursor:pointer;"
+            >View Map</button>
+          </div>
+          <div id="map-frame" style="display:none;"></div>
         </div>
+        <script>
+          (function () {
+            var mapSrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d541213.1673605165!2d-78.82169149999999!3d35.84062555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2126c9cf824e241d%3A0x883595d6b0c9b047!2sTriangle%20Dehumidifiers%2C%20LLC!5e1!3m2!1sen!2sus!4v1773372401756!5m2!1sen!2sus";
+            function loadMap() {
+              var facade = document.getElementById("map-facade");
+              var frame = document.getElementById("map-frame");
+              var iframe = document.createElement("iframe");
+              iframe.src = mapSrc;
+              iframe.width = "100%";
+              iframe.height = "450";
+              iframe.style.cssText = "border:0;display:block;";
+              iframe.allowFullscreen = true;
+              iframe.loading = "lazy";
+              iframe.referrerPolicy = "no-referrer-when-downgrade";
+              iframe.title = "Triangle Dehumidifiers service area map — Raleigh, Cary, Apex, Holly Springs, Wake County NC";
+              frame.appendChild(iframe);
+              facade.style.display = "none";
+              frame.style.display = "block";
+            }
+            document.getElementById("map-facade").addEventListener("click", loadMap);
+            document.getElementById("map-facade").addEventListener("keydown", function (e) {
+              if (e.key === "Enter" || e.key === " ") loadMap();
+            });
+          })();
+        </script>
       </div>
       <p style="max-width:900px; margin:0 auto; font-size:1rem; color:#4a5a6a; line-height:1.8;">
         We provide crawl space dehumidifier installation, whole-home dehumidifiers, ERV ventilation
