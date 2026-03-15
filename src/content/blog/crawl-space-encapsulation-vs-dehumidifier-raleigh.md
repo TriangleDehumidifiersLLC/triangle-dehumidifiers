@@ -42,7 +42,7 @@ A crawl space dehumidifier is a mechanical device that actively removes moisture
 
 These units are rated by pints per day (PPD) at saturation conditions, and a properly sized unit for most Raleigh homes will remove between 90 and 120 pints of moisture per day. They maintain your crawl space humidity at an ideal range of 45 to 55 percent relative humidity, which is the sweet spot for preventing mold growth, wood rot, and pest infestations.
 
-Professional [crawl space dehumidifier installation in Raleigh](/crawl-space-dehumidifier-installation-raleigh) includes selecting the right unit size based on your crawl space square footage, installing proper drainage (either gravity drain or condensate pump), and configuring the humidistat for automatic operation.
+Professional [crawl space dehumidifier installation in Raleigh](/crawl-space-dehumidifier-raleigh-nc) includes selecting the right unit size based on your crawl space square footage, installing proper drainage (either gravity drain or condensate pump), and configuring the humidistat for automatic operation.
 
 ---
 

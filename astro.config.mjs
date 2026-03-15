@@ -3,6 +3,10 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://www.triangledehumidifiers.com',
+  redirects: {
+    '/crawl-space-dehumidifier-installation-raleigh': '/crawl-space-dehumidifier-raleigh-nc/',
+    '/crawl-space-dehumidifier-installation-raleigh/': '/crawl-space-dehumidifier-raleigh-nc/',
+  },
   integrations: [
     sitemap({
       serialize(item) {

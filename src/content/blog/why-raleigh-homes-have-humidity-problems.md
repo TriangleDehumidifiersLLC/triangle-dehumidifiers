@@ -41,7 +41,7 @@ During summer, warm humid outdoor air enters your crawl space through the founda
 
 Building science has caught up with this reality. North Carolina's current building code actually requires mechanical drying capability — typically a dehumidifier — in closed crawl spaces. The state recognized that passive ventilation doesn't work in a humid subtropical climate.
 
-If your home has open foundation vents, they are likely making your crawl space wetter, not drier. A [properly sealed and encapsulated crawl space](/encapsulated-crawl-space-dehumidifier-raleigh-nc) combined with a [properly sized crawl space dehumidifier](/crawl-space-dehumidifier-installation-raleigh) is the code-compliant, building-science-backed solution.
+If your home has open foundation vents, they are likely making your crawl space wetter, not drier. A [properly sealed and encapsulated crawl space](/encapsulated-crawl-space-dehumidifier-raleigh-nc) combined with a [properly sized crawl space dehumidifier](/crawl-space-dehumidifier-raleigh-nc) is the code-compliant, building-science-backed solution.
 
 ---
 

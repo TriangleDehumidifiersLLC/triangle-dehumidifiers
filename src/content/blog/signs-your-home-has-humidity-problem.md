@@ -72,7 +72,7 @@ If you've ever looked into your crawl space and seen white, gray, or black disco
 If you're seeing two or more of these signs, your home likely needs active humidity control. For most Triangle-area homes, that means:
 
 - **Measuring crawl space RH** to establish a baseline
-- **Installing a [properly sized dehumidifier](/crawl-space-dehumidifier-installation-raleigh)** to maintain 45–50% RH
+- **Installing a [properly sized dehumidifier](/crawl-space-dehumidifier-raleigh-nc)** to maintain 45–50% RH
 - **Addressing moisture sources** like open crawl space vents or missing vapor barriers
 
 Homes with encapsulated crawl spaces still need monitoring — [sealed spaces without dehumidification](/encapsulated-crawl-space-dehumidifier-raleigh-nc) can trap moisture and create the same problems.
