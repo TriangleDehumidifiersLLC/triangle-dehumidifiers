@@ -1,8 +1,9 @@
 ---
-title: 'How Much Does a Dehumidifier Cost in Raleigh, NC? (Crawl Space & Whole-Home Pricing Guide)'
+title: 'Dehumidifier Cost in Raleigh, NC (2026 Pricing)'
 description: 'Crawl space dehumidifier installs in Raleigh start at $3,000. Whole-home units run $3,000–$5,000. Real local pricing, free inspection.'
 date: '2026-03-15'
-author: 'Triangle Dehumidifiers'
+dateModified: '2026-03-15'
+author: 'Nathan Rider'
 image: '/images/blog/aprilaire-crawl-space-dehumidifier-installed-raleigh-nc.webp'
 imageAlt: 'AprilAire crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC'
 tags:

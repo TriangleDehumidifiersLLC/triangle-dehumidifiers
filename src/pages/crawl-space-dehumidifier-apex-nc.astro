@@ -5,16 +5,32 @@ const schema = {
   '@context': 'https://schema.org',
   '@graph': [
     {
-      '@type': 'LocalBusiness',
+      '@type': 'HomeAndConstructionBusiness',
       name: 'Triangle Dehumidifiers, LLC',
       telephone: '(919) 867-0580',
       url: 'https://www.triangledehumidifiers.com',
+      image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.triangledehumidifiers.com/logo.webp',
+      },
       address: {
         '@type': 'PostalAddress',
         addressLocality: 'Holly Springs',
         addressRegion: 'NC',
+        postalCode: '27540',
         addressCountry: 'US',
       },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: '35.6409',
+        longitude: '-78.8344',
+      },
+      hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
+      sameAs: [
+        'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
+        'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
+      ],
       areaServed: 'Apex, NC',
       serviceType: 'Crawl Space Dehumidifier Installation',
       priceRange: '$$',

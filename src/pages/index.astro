@@ -32,17 +32,29 @@ const reviews = [
 
 const schema = {
   '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
+  '@type': 'HomeAndConstructionBusiness',
   name: 'Triangle Dehumidifiers, LLC',
   telephone: '(919) 867-0580',
   email: 'info@triangledehumidifiers.com',
   url: 'https://www.triangledehumidifiers.com',
+  image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
+  logo: {
+    '@type': 'ImageObject',
+    url: 'https://www.triangledehumidifiers.com/logo.webp',
+  },
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Holly Springs',
     addressRegion: 'NC',
+    postalCode: '27540',
     addressCountry: 'US',
   },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: '35.6409',
+    longitude: '-78.8344',
+  },
+  hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
   areaServed: [
     { '@type': 'City', name: 'Raleigh' },
     { '@type': 'City', name: 'Cary' },
@@ -56,6 +68,10 @@ const schema = {
     { '@type': 'City', name: 'Durham' },
     { '@type': 'City', name: 'Chapel Hill' },
   ],
+  sameAs: [
+    'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
+    'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
+  ],
   serviceType: [
     'Crawl Space Dehumidifier Installation',
     'Whole-Home Dehumidifier Installation',
@@ -68,6 +84,53 @@ const schema = {
   priceRange: '$$',
   openingHours: 'Mo-Fr 08:00-17:00',
 };
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'What does a dehumidifier installation cost in Raleigh, NC?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'A professionally installed crawl space dehumidifier in the Raleigh area typically costs $3,000–$5,000. Whole-house dehumidifiers integrated with HVAC ductwork run $3,000–$6,000. Final cost depends on crawl space size, configuration, and whether additional work like vapor barrier repair or mold treatment is needed.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'What humidity level should I maintain in my home?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'For homes in Raleigh and Wake County, we recommend maintaining 45–50% Relative Humidity (RH). This range prevents mold growth, wood rot, and musty odors while keeping the home comfortable. Without active dehumidification, crawl spaces in the Triangle regularly exceed 70–80% RH during summer months.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Do I need a crawl space dehumidifier or a whole-house dehumidifier?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'If your humidity problem originates in the crawl space — musty odors, mold on joists, condensation on ductwork — a crawl space dehumidifier is typically the right solution. If you experience high humidity throughout the home — sticky air upstairs, window condensation, clammy bedrooms — a whole-house dehumidifier tied into your HVAC ductwork may be more effective. During an inspection we identify where the moisture is coming from and recommend the right system.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'How long does dehumidifier installation take?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Most installations are completed in a single day. The process includes an on-site evaluation, equipment sizing, unit installation, condensate drain line routing, and system verification to confirm humidity levels reach the target range before we leave.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'What areas does Triangle Dehumidifiers serve?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'We serve Raleigh, Cary, Apex, Holly Springs, Fuquay-Varina, Morrisville, Garner, Wake Forest, Knightdale, and surrounding Triangle communities. We are based in Holly Springs, NC and most projects are completed within Wake County.',
+      },
+    },
+  ],
+};
 ---
 
 <BaseLayout
@@ -78,6 +141,7 @@ const schema = {
   heroImage="/images/hero-livingroom.webp"
 >
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 
   <!-- HERO -->
   <section class="hero-simple">
@@ -93,7 +157,7 @@ const schema = {
       <div class="hero-simple__content">
         <div class="hero-brand">Triangle Dehumidifiers</div>
         <div class="hero-simple__eyebrow">Professional Humidity Control</div>
-        <h1>Dehumidifier<br />Installation in<br />Raleigh, NC</h1>
+        <h1>Dehumidifier Installation in Raleigh, NC</h1>
         <p>
           Humidity control for homes across the Triangle region—led by a humidity control specialist
           with 15+ years of experience. We design systems to maintain 45–50% Relative Humidity (RH)
@@ -138,7 +202,7 @@ const schema = {
   <!-- WHY HUMIDITY MATTERS -->
   <section class="why-section">
     <div class="container why-inner">
-      <h2>How High Indoor Humidity<br />Affects Your Home</h2>
+      <h2>How High Indoor Humidity Affects Your Home</h2>
       <p class="why-intro">
         Excess indoor moisture can lead to mold growth, structural wood damage, poor air quality,
         lower comfort, and increased HVAC strain throughout the home.
@@ -434,6 +498,45 @@ const schema = {
       }
     })();
   </script>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container" style="max-width:780px;">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        <details class="faq-item">
+          <summary>What does a dehumidifier installation cost in Raleigh, NC?</summary>
+          <p>
+            A professionally installed crawl space dehumidifier in the Raleigh area typically costs $3,000–$5,000. Whole-house dehumidifiers integrated with HVAC ductwork run $3,000–$6,000. Final cost depends on crawl space size, configuration, and whether additional work like vapor barrier repair or mold treatment is needed.
+          </p>
+        </details>
+        <details class="faq-item">
+          <summary>What humidity level should I maintain in my home?</summary>
+          <p>
+            For homes in Raleigh and Wake County, we recommend maintaining 45–50% Relative Humidity (RH). This range prevents mold growth, wood rot, and musty odors while keeping the home comfortable. Without active dehumidification, crawl spaces in the Triangle regularly exceed 70–80% RH during summer months.
+          </p>
+        </details>
+        <details class="faq-item">
+          <summary>Do I need a crawl space dehumidifier or a whole-house dehumidifier?</summary>
+          <p>
+            If your humidity problem originates in the crawl space — musty odors, mold on joists, condensation on ductwork — a <a href="/crawl-space-dehumidifier-installation-raleigh">crawl space dehumidifier</a> is typically the right solution. If you experience high humidity throughout the home — sticky air upstairs, window condensation, clammy bedrooms — a <a href="/whole-house-dehumidifier-raleigh">whole-house dehumidifier</a> tied into your HVAC ductwork may be more effective.
+          </p>
+        </details>
+        <details class="faq-item">
+          <summary>How long does dehumidifier installation take?</summary>
+          <p>
+            Most installations are completed in a single day. The process includes an on-site evaluation, equipment sizing, unit installation, condensate drain line routing, and system verification to confirm humidity levels reach the target range before we leave.
+          </p>
+        </details>
+        <details class="faq-item">
+          <summary>What areas does Triangle Dehumidifiers serve?</summary>
+          <p>
+            We serve Raleigh, Cary, Apex, Holly Springs, Fuquay-Varina, Morrisville, Garner, Wake Forest, Knightdale, and surrounding Triangle communities. We are based in Holly Springs, NC and most projects are completed within Wake County. See our full <a href="/service-areas">service area</a>.
+          </p>
+        </details>
+      </div>
+    </div>
+  </section>
 
   <!-- STRIPES: Above CTA -->
   <div class="stripes-above-cta"></div>

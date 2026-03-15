@@ -11,7 +11,8 @@ interface Props {
 }
 
 const { title, description, canonical, heroImage, noindex, breadcrumbs } = Astro.props;
-const canonicalURL = canonical ? `https://www.triangledehumidifiers.com${canonical}` : undefined;
+const canonicalPath = canonical === '/' ? '/' : (canonical && !canonical.endsWith('/') ? `${canonical}/` : canonical);
+const canonicalURL = canonicalPath ? `https://www.triangledehumidifiers.com${canonicalPath}` : undefined;
 const ogImage = `https://www.triangledehumidifiers.com${heroImage ?? '/images/hero-livingroom.webp'}`;
 
 const breadcrumbSchema = breadcrumbs && breadcrumbs.length > 0 ? {

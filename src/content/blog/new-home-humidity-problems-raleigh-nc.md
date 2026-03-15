@@ -2,7 +2,8 @@
 title: 'Do New Homes Need Dehumidifiers? What Raleigh Homeowners Should Know'
 description: 'New construction homes in Raleigh, NC often have high indoor humidity despite running the AC. Here is why — and what actually fixes it.'
 date: '2026-03-05'
-author: 'Triangle Dehumidifiers'
+dateModified: '2026-03-15'
+author: 'Nathan Rider'
 image: '/images/blog/new-construction-home-raleigh-nc.webp'
 imageAlt: 'New construction home in Raleigh NC subdivision with fresh sod and young landscaping'
 tags: ['humidity', 'new construction', 'raleigh', 'dehumidifier']

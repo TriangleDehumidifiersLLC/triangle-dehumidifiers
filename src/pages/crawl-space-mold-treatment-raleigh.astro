@@ -9,6 +9,28 @@ const schema = {
       name: 'Triangle Dehumidifiers, LLC',
       telephone: '(919) 867-0580',
       url: 'https://www.triangledehumidifiers.com',
+      image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.triangledehumidifiers.com/logo.webp',
+      },
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: 'Holly Springs',
+        addressRegion: 'NC',
+        postalCode: '27540',
+        addressCountry: 'US',
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: '35.6409',
+        longitude: '-78.8344',
+      },
+      hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
+      sameAs: [
+        'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
+        'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
+      ],
       areaServed: [
         { '@type': 'City', name: 'Raleigh' },
         { '@type': 'City', name: 'Holly Springs' },
@@ -101,7 +123,7 @@ const faqSchema = {
   <!-- HERO -->
   <section class="svc-hero">
     <div class="container">
-      <h1>Crawl Space Mold Removal &amp; Treatment<br />in Raleigh, NC</h1>
+      <h1>Crawl Space Mold Removal &amp; Treatment in Raleigh, NC</h1>
       <span class="svc-hero__direct"
         >Mold is a symptom of a moisture problem. We correct the humidity source first — then
         perform surface mold remediation to remove existing growth and prevent recurrence.</span
