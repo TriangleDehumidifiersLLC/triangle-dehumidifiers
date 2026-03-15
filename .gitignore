@@ -25,4 +25,5 @@ pnpm-debug.log*
 
 # Claude Code temp files
 tmpclaude-*
+.claude/worktrees/
 nul
