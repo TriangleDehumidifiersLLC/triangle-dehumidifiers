@@ -5,7 +5,14 @@ date: '2026-03-15'
 author: 'Triangle Dehumidifiers'
 image: '/images/blog/aprilaire-crawl-space-dehumidifier-installed-raleigh-nc.webp'
 imageAlt: 'AprilAire crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC'
-tags: ['dehumidifier cost', 'crawl space dehumidifier', 'whole home dehumidifier', 'raleigh', 'pricing guide']
+tags:
+  [
+    'dehumidifier cost',
+    'crawl space dehumidifier',
+    'whole home dehumidifier',
+    'raleigh',
+    'pricing guide',
+  ]
 ---
 
 <img src="/images/blog/aprilaire-crawl-space-dehumidifier-installed-raleigh-nc.webp" alt="AprilAire crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC" width="1200" height="675" loading="eager">
@@ -22,19 +29,19 @@ Here's an honest breakdown of installed costs for both system types in the Ralei
 
 **Crawl Space Dehumidifiers**
 
-| Scenario | Typical Installed Cost |
-|---|---|
-| Professional install — encapsulated crawl space | $3,000–$4,000 |
-| Professional install — vented crawl space (close vents, blocks, larger unit) | $3,000–$5,000 |
-| Add a vapor barrier to a vented crawl space | ~$1 per sq ft |
-| Full crawl space encapsulation + dehumidifier | $7,500–$15,000 |
+| Scenario                                                                     | Typical Installed Cost |
+| ---------------------------------------------------------------------------- | ---------------------- |
+| Professional install — encapsulated crawl space                              | $3,000–$4,000          |
+| Professional install — vented crawl space (close vents, blocks, larger unit) | $3,000–$5,000          |
+| Add a vapor barrier to a vented crawl space                                  | ~$1 per sq ft          |
+| Full crawl space encapsulation + dehumidifier                                | $7,500–$15,000         |
 
 **Whole-Home Dehumidifiers**
 
-| Scenario | Typical Installed Cost |
-|---|---|
-| Professional install — standard HVAC integration | $3,000–$5,000 |
-| Professional install — complex or older HVAC system | $4,000–$6,000 |
+| Scenario                                            | Typical Installed Cost |
+| --------------------------------------------------- | ---------------------- |
+| Professional install — standard HVAC integration    | $3,000–$5,000          |
+| Professional install — complex or older HVAC system | $4,000–$6,000          |
 
 These are Triangle Dehumidifiers' actual installed costs in Wake County as of 2026. Every project is quoted after a free on-site inspection — crawl space size, height, access, and condition all affect the final number.
 
@@ -135,15 +142,15 @@ We install AprilAire's WiFi-enabled models here as well. The same app that lets 
 
 This is the question worth answering before you spend anything. The two systems solve different problems, and choosing the wrong one means the humidity issue persists even after installation.
 
-| Symptom | More Likely Cause | Recommended Solution |
-|---|---|---|
-| Musty odor, especially near floors or lower level | Crawl space moisture | Crawl space dehumidifier (± encapsulation) |
-| Mold or wood rot on floor joists, subfloor, or piers | Crawl space moisture | Crawl space dehumidifier + encapsulation |
-| Mold or mildew on wall or ceiling surfaces | Whole-house humidity | Whole-home dehumidifier |
-| Condensation on windows, walls, or cold surfaces | Whole-house humidity | Whole-home dehumidifier |
-| Stuffy, muggy rooms even when AC is running | Whole-house humidity | Whole-home dehumidifier |
-| High humidity readings on main floor (above 55% RH) | Whole-house humidity | Whole-home dehumidifier |
-| Both crawl space moisture AND muggy living spaces | Both sources | Both systems |
+| Symptom                                              | More Likely Cause    | Recommended Solution                       |
+| ---------------------------------------------------- | -------------------- | ------------------------------------------ |
+| Musty odor, especially near floors or lower level    | Crawl space moisture | Crawl space dehumidifier (± encapsulation) |
+| Mold or wood rot on floor joists, subfloor, or piers | Crawl space moisture | Crawl space dehumidifier + encapsulation   |
+| Mold or mildew on wall or ceiling surfaces           | Whole-house humidity | Whole-home dehumidifier                    |
+| Condensation on windows, walls, or cold surfaces     | Whole-house humidity | Whole-home dehumidifier                    |
+| Stuffy, muggy rooms even when AC is running          | Whole-house humidity | Whole-home dehumidifier                    |
+| High humidity readings on main floor (above 55% RH)  | Whole-house humidity | Whole-home dehumidifier                    |
+| Both crawl space moisture AND muggy living spaces    | Both sources         | Both systems                               |
 
 The two systems are not mutually exclusive. In many Raleigh-area homes — particularly older homes in Garner, Knightdale, and southern Wake County with vented crawl spaces — we find both a structurally wet crawl space and a whole-house humidity issue. Addressing only one leaves the other unresolved.
 
