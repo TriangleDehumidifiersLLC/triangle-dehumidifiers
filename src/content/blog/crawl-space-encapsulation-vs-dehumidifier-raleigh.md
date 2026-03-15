@@ -6,8 +6,14 @@ dateModified: '2026-03-15'
 author: 'Nathan Rider'
 image: '/images/encapsulated-crawl-space-raleigh-nc.webp'
 imageAlt: 'Encapsulated crawl space with vapor barrier and dehumidifier installed in a Raleigh NC home'
-tags: ['crawl space encapsulation', 'dehumidifier', 'raleigh', 'humidity control', 'moisture prevention']
-
+tags:
+  [
+    'crawl space encapsulation',
+    'dehumidifier',
+    'raleigh',
+    'humidity control',
+    'moisture prevention',
+  ]
 ---
 
 <img src="/images/encapsulated-crawl-space-raleigh-nc.webp" alt="Encapsulated crawl space with vapor barrier and dehumidifier installed in a Raleigh NC home" width="1200" height="675" loading="eager">
