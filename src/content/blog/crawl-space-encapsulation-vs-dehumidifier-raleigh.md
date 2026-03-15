@@ -69,13 +69,13 @@ A dehumidifier in a vented, un-encapsulated crawl space is fighting a losing bat
 
 Understanding the investment involved helps with planning. Here are typical cost ranges for homes in the Raleigh, Durham, and Chapel Hill area:
 
-**Crawl Space encapsulation:** ,000 to ,000 depending on crawl space size, accessibility, and whether drainage work is needed.
+**Crawl space encapsulation:** $5,000–$15,000 depending on crawl space size, accessibility, and whether drainage work is needed.
 
-**Commercial crawl space dehumidifier (installed):** ,500 to ,000 including the unit, drainage setup, and professional installation.
+**Crawl space dehumidifier (professionally installed):** $3,000–$5,000 including the unit, drainage setup, and professional installation.
 
-**Combined encapsulation and dehumidifier:** ,500 to ,000 for a complete moisture control system.
+**Combined encapsulation and dehumidifier:** $7,500–$15,000 for a complete moisture control system.
 
-While the upfront cost of the combined approach is higher, homeowners typically see returns through lower energy bills, reduced HVAC strain, and avoided repair costs from moisture damage. Replacing floor joists damaged by wood rot can cost ,000 or more, making prevention far more affordable than remediation.
+While the upfront cost of the combined approach is higher, homeowners typically see returns through lower energy bills, reduced HVAC strain, and avoided repair costs from moisture damage. Replacing floor joists damaged by wood rot can cost $5,000 or more, making prevention far more affordable than remediation.
 
 ---
 
