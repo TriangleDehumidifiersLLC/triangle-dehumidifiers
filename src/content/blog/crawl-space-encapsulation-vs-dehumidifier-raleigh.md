@@ -1,5 +1,5 @@
 ﻿---
-title: 'Crawl Space Encapsulation vs. Dehumidifier: Which Does Your Raleigh Home Need?'
+title: 'Encapsulation vs. Dehumidifier: What Raleigh Homes Need'
 description: 'Does your Raleigh home need crawl space encapsulation, a dehumidifier, or both? Compare differences, costs, and the best approach for your home.'
 date: '2026-03-04'
 dateModified: '2026-03-15'

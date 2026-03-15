@@ -47,7 +47,7 @@ const articleSchema = {
 
 <BaseLayout
   breadcrumbs={[{ name: 'Home', url: '/' }, { name: 'Blog', url: '/blog' }, { name: title, url: `/blog/${Astro.params.slug}` }]}
-  title={`${title} | Triangle Dehumidifiers Blog`}
+  title={title}
   description={description}
   canonical={`/blog/${Astro.params.slug}`}
 >

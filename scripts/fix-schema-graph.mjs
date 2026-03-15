@@ -21,7 +21,7 @@ const pages = [
 function deindent(str) {
   return str
     .split('\n')
-    .map(line => (line.startsWith('    ') ? line.slice(4) : line))
+    .map((line) => (line.startsWith('    ') ? line.slice(4) : line))
     .join('\n');
 }
 
