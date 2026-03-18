@@ -74,9 +74,9 @@ Running the AC colder is not the answer — you will waste energy and still have
 
 <img src="/images/blog/aprilaire-crawl-space-dehumidifier-installed-raleigh-nc.webp" alt="Crawl space dehumidifier installed with vapor barrier in Raleigh NC home" width="800" height="600" loading="lazy">
 
-The most effective solution for new construction humidity in the Raleigh area is a [whole-home dehumidifier](/whole-house-dehumidifier-raleigh) installed directly into your HVAC ductwork. These units work independently of your AC, pulling moisture out of the air whether the system is actively cooling or not. They drain automatically and keep your entire home between 45 and 55 percent relative humidity without overcooling.
+The most effective solution for new construction humidity in the Raleigh area is a [whole-home dehumidifier](/whole-house-dehumidifier-raleigh/) installed directly into your HVAC ductwork. These units work independently of your AC, pulling moisture out of the air whether the system is actively cooling or not. They drain automatically and keep your entire home between 45 and 55 percent relative humidity without overcooling.
 
-If your home has a vented or encapsulated crawl space, that is often the single biggest source of moisture entering the living space. A [crawl space dehumidifier](/crawl-space-dehumidifier-raleigh-nc) paired with proper vapor barriers and sealing can eliminate the problem at its source.
+If your home has a vented or encapsulated crawl space, that is often the single biggest source of moisture entering the living space. A [crawl space dehumidifier](/crawl-space-dehumidifier-raleigh-nc/) paired with proper vapor barriers and sealing can eliminate the problem at its source.
 
 In many cases, the right approach is both — address the crawl space and control whole-home humidity through the duct system. The result is lower energy bills, better air quality, and a home that actually feels comfortable at 72 degrees.
 
@@ -84,7 +84,7 @@ In many cases, the right approach is both — address the crawl space and contro
 
 We work with homeowners across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina who are dealing with humidity in homes less than five years old. It is one of the most common calls we get — and one of the most straightforward problems to fix.
 
-If your new home feels damp despite a working HVAC system, the issue is a moisture load your AC was never designed to handle alone. We can measure your indoor humidity, inspect your crawl space, and recommend the right solution. Check our full [service area](/service-areas) to confirm we cover your neighborhood.
+If your new home feels damp despite a working HVAC system, the issue is a moisture load your AC was never designed to handle alone. We can measure your indoor humidity, inspect your crawl space, and recommend the right solution. Check our full [service area](/service-areas/) to confirm we cover your neighborhood.
 
 ---
 

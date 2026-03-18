@@ -25,7 +25,7 @@ From May through September, outdoor relative humidity in Raleigh averages betwee
 
 What this means for your home: the outdoor air pushing in through every vent, gap, and opening is loaded with moisture for five to six months of the year. Your home's envelope is under constant humidity pressure whether you notice it or not.
 
-Your air conditioner helps, but it was designed primarily to cool — not to dehumidify. An AC unit cycles on and off based on temperature. On mild summer days when the temperature doesn't trigger the unit to run long, humidity climbs even though the thermostat reads fine. A [whole-home dehumidifier](/whole-house-dehumidifier-raleigh) works independently of your AC to maintain target humidity regardless of temperature.
+Your air conditioner helps, but it was designed primarily to cool — not to dehumidify. An AC unit cycles on and off based on temperature. On mild summer days when the temperature doesn't trigger the unit to run long, humidity climbs even though the thermostat reads fine. A [whole-home dehumidifier](/whole-house-dehumidifier-raleigh/) works independently of your AC to maintain target humidity regardless of temperature.
 
 ---
 
@@ -41,7 +41,7 @@ During summer, warm humid outdoor air enters your crawl space through the founda
 
 Building science has caught up with this reality. North Carolina's current building code actually requires mechanical drying capability — typically a dehumidifier — in closed crawl spaces. The state recognized that passive ventilation doesn't work in a humid subtropical climate.
 
-If your home has open foundation vents, they are likely making your crawl space wetter, not drier. A [properly sealed and encapsulated crawl space](/encapsulated-crawl-space-dehumidifier-raleigh-nc) combined with a [properly sized crawl space dehumidifier](/crawl-space-dehumidifier-raleigh-nc) is the code-compliant, building-science-backed solution.
+If your home has open foundation vents, they are likely making your crawl space wetter, not drier. A [properly sealed and encapsulated crawl space](/encapsulated-crawl-space-dehumidifier-raleigh-nc/) combined with a [properly sized crawl space dehumidifier](/crawl-space-dehumidifier-raleigh-nc/) is the code-compliant, building-science-backed solution.
 
 ---
 
@@ -63,7 +63,7 @@ Wood is hygroscopic — it absorbs and releases moisture based on the surroundin
 
 In summer, boards absorb moisture and swell. You may see cupping (edges higher than the center of each board), crowning, or buckling. In winter when the air dries out, the same boards shrink and gaps open between planks. This seasonal movement happens gradually, and many homeowners assume it's just how hardwood floors behave in the South.
 
-It's not inevitable — it's a symptom of uncontrolled humidity. If your floors are moving, the crawl space is almost always the underlying cause. See [5 Signs Your Home Has a Humidity Problem](/blog/signs-your-home-has-humidity-problem) for other symptoms to watch for.
+It's not inevitable — it's a symptom of uncontrolled humidity. If your floors are moving, the crawl space is almost always the underlying cause. See [5 Signs Your Home Has a Humidity Problem](/blog/signs-your-home-has-humidity-problem/) for other symptoms to watch for.
 
 ---
 
@@ -73,7 +73,7 @@ Your HVAC system was designed to control temperature — not humidity. It remove
 
 On a mild summer day — 74°F outside, 71°F inside — the AC may barely run. Meanwhile, outdoor humidity is 80% and moisture is moving freely into your crawl space and living areas. The crawl space compounds this because it is typically not conditioned by your HVAC at all. The space beneath your home sits at its own temperature and humidity level, independent of what your thermostat is doing.
 
-Even if your living areas feel comfortable, your crawl space may be sitting at 80% relative humidity or higher all summer — silently feeding mold growth and wood moisture you can't see. A dedicated [whole-house dehumidifier](/whole-house-dehumidifier-raleigh) integrated with your HVAC closes that gap. A crawl space unit addresses the source directly.
+Even if your living areas feel comfortable, your crawl space may be sitting at 80% relative humidity or higher all summer — silently feeding mold growth and wood moisture you can't see. A dedicated [whole-house dehumidifier](/whole-house-dehumidifier-raleigh/) integrated with your HVAC closes that gap. A crawl space unit addresses the source directly.
 
 ---
 

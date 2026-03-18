@@ -49,7 +49,7 @@ const blogSchema = {
             day: 'numeric',
           });
           return (
-            <a href={`/blog/${post.id}`} class="blog-card">
+            <a href={`/blog/${post.id}/`} class="blog-card">
               <div class="blog-card-body">
                 <time datetime={post.data.date}>{formattedDate}</time>
                 <h2>{post.data.title}</h2>

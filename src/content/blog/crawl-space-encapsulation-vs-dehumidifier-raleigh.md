@@ -38,7 +38,7 @@ A properly encapsulated crawl space typically includes:
 - A drainage system if standing water is present
 - Sealed gaps around pipes, wires, and other penetrations
 
-If your home was built before 2010 in Wake County, there is a strong chance your crawl space still has open foundation vents. These vents were once considered best practice but are now recognized as a primary contributor to [crawl space moisture and mold problems](/crawl-space-mold-treatment-raleigh).
+If your home was built before 2010 in Wake County, there is a strong chance your crawl space still has open foundation vents. These vents were once considered best practice but are now recognized as a primary contributor to [crawl space moisture and mold problems](/crawl-space-mold-treatment-raleigh/).
 
 ---
 
@@ -48,7 +48,7 @@ A crawl space dehumidifier is a mechanical device that actively removes moisture
 
 These units are rated by pints per day (PPD) at saturation conditions, and a properly sized unit for most Raleigh homes will remove between 90 and 120 pints of moisture per day. They maintain your crawl space humidity at an ideal range of 45 to 55 percent relative humidity, which is the sweet spot for preventing mold growth, wood rot, and pest infestations.
 
-Professional [crawl space dehumidifier installation in Raleigh](/crawl-space-dehumidifier-raleigh-nc) includes selecting the right unit size based on your crawl space square footage, installing proper drainage (either gravity drain or condensate pump), and configuring the humidistat for automatic operation.
+Professional [crawl space dehumidifier installation in Raleigh](/crawl-space-dehumidifier-raleigh-nc/) includes selecting the right unit size based on your crawl space square footage, installing proper drainage (either gravity drain or condensate pump), and configuring the humidistat for automatic operation.
 
 ---
 
@@ -93,7 +93,7 @@ Every home is different, but here are general guidelines for Raleigh-area homeow
 ### You May Only Need a Dehumidifier If:
 
 - Your crawl space is already encapsulated but lacks humidity control
-- You have an [encapsulated crawl space](/encapsulated-crawl-space-dehumidifier-raleigh-nc) with HVAC ducts that provide some conditioning
+- You have an [encapsulated crawl space](/encapsulated-crawl-space-dehumidifier-raleigh-nc/) with HVAC ducts that provide some conditioning
 - Moisture levels are mildly elevated (55 to 65 percent) with no visible water intrusion
 
 ### You Likely Need Full Encapsulation Plus a Dehumidifier If:
@@ -102,11 +102,11 @@ Every home is different, but here are general guidelines for Raleigh-area homeow
 - You see standing water, condensation on pipes, or visible mold
 - Your home has musty odors, uneven floors, or increased allergy symptoms
 - Relative humidity in your crawl space regularly exceeds 65 percent
-- You are also dealing with [whole-house humidity issues](/whole-house-dehumidifier-raleigh)
+- You are also dealing with [whole-house humidity issues](/whole-house-dehumidifier-raleigh/)
 
 ### You Might Also Consider an ERV
 
-For homeowners focused on overall indoor air quality, an [energy recovery ventilator (ERV)](/erv-installation-raleigh-nc) can complement your crawl space moisture control system by managing humidity and fresh air exchange throughout the entire home.
+For homeowners focused on overall indoor air quality, an [energy recovery ventilator (ERV)](/erv-installation-raleigh-nc/) can complement your crawl space moisture control system by managing humidity and fresh air exchange throughout the entire home.
 
 ---
 
@@ -130,6 +130,6 @@ A properly installed encapsulation system with a quality vapor barrier should la
 
 Crawl Space moisture is not a problem that goes away on its own, especially in the Triangle. Whether your home needs encapsulation, a dehumidifier, or a complete moisture control system, the right approach depends on your specific situation.
 
-At Triangle Dehumidifiers, we help homeowners across Raleigh, Durham, Cary, Apex, and the surrounding [service areas](/service-areas) find the right solution for their home. We offer free assessments so you know exactly what your crawl space needs before spending a dollar.
+At Triangle Dehumidifiers, we help homeowners across Raleigh, Durham, Cary, Apex, and the surrounding [service areas](/service-areas/) find the right solution for their home. We offer free assessments so you know exactly what your crawl space needs before spending a dollar.
 
-**Call us today at (919) 867-0580** or [contact us online](/contact) to schedule your free crawl space evaluation. We will help you determine whether encapsulation, a dehumidifier, or both will keep your home dry, healthy, and protected for years to come.
+**Call us today at (919) 867-0580** or [contact us online](/contact/) to schedule your free crawl space evaluation. We will help you determine whether encapsulation, a dehumidifier, or both will keep your home dry, healthy, and protected for years to come.

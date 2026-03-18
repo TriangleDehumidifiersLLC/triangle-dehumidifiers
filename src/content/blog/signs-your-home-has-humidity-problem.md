@@ -17,7 +17,7 @@ Here are five warning signs — and what to do about each one.
 
 If your home smells musty — especially near interior closets, hallways, or lower levels — that's a strong indicator of elevated moisture. The smell comes from mold and mildew colonies that form when relative humidity (RH) stays above 60%.
 
-**What to check:** Open your crawl space access door and take a breath. If the smell is stronger down there, your crawl space is likely the source. Persistent odors often point to conditions that lead to [crawl space mold growth](/crawl-space-mold-treatment-raleigh).
+**What to check:** Open your crawl space access door and take a breath. If the smell is stronger down there, your crawl space is likely the source. Persistent odors often point to conditions that lead to [crawl space mold growth](/crawl-space-mold-treatment-raleigh/).
 
 ---
 
@@ -53,7 +53,7 @@ Wood absorbs moisture from the air. When crawl space humidity is high, that mois
 
 Dust mites and mold spores both thrive in humid environments. If your family's allergy symptoms improve when you leave the house and return when you're home, indoor air quality may be the issue — and humidity is usually the root cause.
 
-**What to check:** Pay attention to whether symptoms are worse on humid days or in specific rooms. Bedrooms above crawl spaces are common problem areas. An [ERV ventilation system](/erv-installation-raleigh-nc) can help improve air exchange in tightly sealed homes.
+**What to check:** Pay attention to whether symptoms are worse on humid days or in specific rooms. Bedrooms above crawl spaces are common problem areas. An [ERV ventilation system](/erv-installation-raleigh-nc/) can help improve air exchange in tightly sealed homes.
 
 ---
 
@@ -72,10 +72,10 @@ If you've ever looked into your crawl space and seen white, gray, or black disco
 If you're seeing two or more of these signs, your home likely needs active humidity control. For most Triangle-area homes, that means:
 
 - **Measuring crawl space RH** to establish a baseline
-- **Installing a [properly sized dehumidifier](/crawl-space-dehumidifier-raleigh-nc)** to maintain 45–50% RH
+- **Installing a [properly sized dehumidifier](/crawl-space-dehumidifier-raleigh-nc/)** to maintain 45–50% RH
 - **Addressing moisture sources** like open crawl space vents or missing vapor barriers
 
-Homes with encapsulated crawl spaces still need monitoring — [sealed spaces without dehumidification](/encapsulated-crawl-space-dehumidifier-raleigh-nc) can trap moisture and create the same problems.
+Homes with encapsulated crawl spaces still need monitoring — [sealed spaces without dehumidification](/encapsulated-crawl-space-dehumidifier-raleigh-nc/) can trap moisture and create the same problems.
 
 ---
 
