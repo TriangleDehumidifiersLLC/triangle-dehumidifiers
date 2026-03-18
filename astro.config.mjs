@@ -23,6 +23,8 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
+      filter: (page) =>
+        !page.includes('/thank-you') && !page.includes('/404'),
       serialize(item) {
         item.lastmod = new Date();
         return item;
