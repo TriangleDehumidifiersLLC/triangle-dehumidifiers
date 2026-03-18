@@ -1,9 +1,8 @@
 name: Lighthouse CI
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9am UTC
 
 jobs:
   lighthouse:
