@@ -99,7 +99,7 @@ The right approach depends on your home's construction, crawl space size, existi
 <p>If your home was built with a vented crawl space and you're noticing musty odors, condensation, or floor movement, humidity is almost certainly the underlying issue. The good news: it's a solvable problem with the right system in place.</p>
 <p>We inspect crawl spaces and measure whole-home humidity conditions across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina.</p>
 <div class="blog-final-cta-buttons">
-<a href="/contact" class="btn btn-green btn-lg">Schedule a Crawl Space Inspection</a>
+<a href="/contact/" class="btn btn-green btn-lg">Schedule a Crawl Space Inspection</a>
 <a href="tel:9198670580" class="btn-call btn-call--light" aria-label="Call Triangle Dehumidifiers at (919) 867-0580"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.6 3.18 2 2 0 0 1 3.59 1h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.96a16 16 0 0 0 5.89 5.89l.92-.92a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> (919) 867-0580</a>
 </div>
 <p class="blog-final-cta-region"><em>Straight answers. Clear measurements. A practical plan to fix it.</em></p>
