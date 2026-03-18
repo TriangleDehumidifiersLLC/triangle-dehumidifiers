@@ -37,7 +37,7 @@ Even properly sized systems struggle in our climate. As homes become more energy
 
 **Raleigh's average outdoor humidity sits around 70 percent year-round**, with summer months regularly reaching the upper 70s. That makes the Triangle one of the more challenging humidity environments in the country for residential buildings.
 
-**Wake County issued over 7,400 residential building permits between 2022 and 2024** — roughly 224 new homes per month. That is a lot of tightly sealed houses being handed over to homeowners who may not understand why their indoor air feels clammy.
+**Wake County remains one of the fastest-growing counties in the state**, with thousands of new homes built each year across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina. That is a lot of tightly sealed houses being handed over to homeowners who may not understand why their indoor air feels clammy.
 
 The EPA is clear on this: indoor relative humidity should stay below 60 percent to prevent mold growth, and **ideally between 30 and 50 percent**. Relative humidity above 60 percent creates conditions where mold, mildew, and dust mites thrive. In a tight new home during a Raleigh summer, hitting 65 to 75 percent indoors is common without dedicated dehumidification.
 

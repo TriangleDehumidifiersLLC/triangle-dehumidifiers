@@ -1,0 +1,237 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildBusinessSchema, ALL_AREAS_SERVED } from '../schemas/business';
+
+const schema = buildBusinessSchema({
+  areaServed: ALL_AREAS_SERVED,
+  description: 'Triangle Dehumidifiers is a locally owned humidity control company in Holly Springs, NC. Owner Nathan Rider has 16 years of experience in building science, Energy Star testing, and residential moisture diagnostics through Peak Energy, Inc.',
+});
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Nathan Rider',
+  jobTitle: 'Owner',
+  worksFor: {
+    '@type': 'HomeAndConstructionBusiness',
+    '@id': 'https://www.triangledehumidifiers.com/#business',
+    name: 'Triangle Dehumidifiers, LLC',
+  },
+  knowsAbout: [
+    'crawl space dehumidification',
+    'whole-house humidity control',
+    'Energy Star residential testing',
+    'building envelope diagnostics',
+    'blower door testing',
+    'duct leakage testing',
+    'HVAC airflow testing',
+    'crawl space encapsulation',
+    'weatherization',
+    'indoor air quality',
+    'mold prevention',
+  ],
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: 'Holly Springs',
+    addressRegion: 'NC',
+    addressCountry: 'US',
+  },
+};
+---
+
+<BaseLayout
+  breadcrumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'About', url: '/about' },
+  ]}
+  title="About Triangle Dehumidifiers | Nathan Rider, Holly Springs NC"
+  description="Triangle Dehumidifiers is owned by Nathan Rider in Holly Springs, NC. 16 years in building science, Energy Star testing, and humidity control across Wake County."
+  canonical="/about"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+
+  <!-- HERO -->
+  <section class="svc-hero">
+    <div class="container">
+      <h1>About Triangle Dehumidifiers</h1>
+      <span class="svc-hero__direct">Locally owned in Holly Springs, NC</span>
+      <p class="svc-hero__sub">
+        We fix humidity problems in homes across Wake County. Not with guesswork but with
+        16 years of building science and diagnostic experience behind every recommendation.
+      </p>
+    </div>
+  </section>
+
+  <!-- OWNER STORY -->
+  <section class="svc-section">
+    <div class="container">
+      <h2>How I Got Into This Work</h2>
+      <!-- TODO: Nathan — add a photo of yourself here, ideally on a job site -->
+      <p>
+        My name is Nathan Rider. I own Triangle Dehumidifiers and
+        <a href="https://peakenergync.com">Peak Energy, Inc.</a>, both based here in Holly Springs.
+      </p>
+      <p>
+        I have been running Peak Energy for 16 years. We started out working on existing homes,
+        doing energy efficiency upgrades and weatherization work. A big part of that was sealing
+        and encapsulating crawl spaces. We would go into older homes across the Triangle, assess
+        the crawl space conditions, install vapor barriers, seal vents, and get the moisture
+        under control.
+      </p>
+      <p>
+        Over the course of that work we kept running into the same thing. Homes with serious
+        humidity problems. Mold growing on floor joists and subfloor sheathing. Structural
+        damage from years of unchecked moisture. Musty odors that homeowners had been living
+        with so long they stopped noticing. And it was not limited to the crawl space. The
+        humidity was affecting the entire house.
+      </p>
+    </div>
+  </section>
+
+  <!-- NEW HOME TESTING -->
+  <section class="svc-section svc-section--alt">
+    <div class="container">
+      <h2>What Energy Star Testing Taught Me</h2>
+      <p>
+        Along with the weatherization work on existing homes, I also started doing Energy Star
+        testing on new construction across the Triangle. Blower door testing, duct leakage testing,
+        HVAC airflow testing, insulation inspections. The full scope of what is required to certify
+        a new home meets Energy Star performance standards.
+      </p>
+      <p>
+        That work gave me a different perspective. When you are testing new homes at every stage
+        of construction, you see exactly how they are built. You see how duct systems are designed
+        and installed. You see where insulation gets missed. You see where air sealing falls short.
+        And you start to understand what problems a home is going to have five or ten years down
+        the road if things are not done right from the start.
+      </p>
+      <p>
+        The biggest issue I kept coming back to was HVAC. If the system is not designed and
+        installed properly, it cannot manage the moisture load in the house. It might cool the air
+        fine, but it is not removing enough humidity. And in a climate like ours in the Piedmont,
+        where outdoor dew points regularly climb above 70 degrees in the summer, that gap between
+        what the HVAC can handle and what the house actually needs is where the problems start.
+      </p>
+      <p>
+        Through Peak Energy I have performed hundreds of energy assessments on existing homes
+        and hundreds if not thousands of code compliance blower door tests, duct leakage tests,
+        and Energy Star inspections on new construction. All of that experience shaped how I
+        think about humidity problems in homes today.
+      </p>
+    </div>
+  </section>
+
+  <!-- WHY TRIANGLE DEHUMIDIFIERS -->
+  <section class="svc-section">
+    <div class="container">
+      <h2>Why I Started Triangle Dehumidifiers</h2>
+      <p>
+        After years of seeing humidity problems in both older and newer homes, I wanted to help
+        homeowners solve them directly. Not just identify the problem during an energy audit and
+        hand them a report. Actually fix it.
+      </p>
+      <p>
+        What I found is that in a lot of cases, a properly sized and installed dehumidifier
+        can make a real difference on its own. Not a portable unit from the hardware store.
+        A commercial grade crawl space or whole house dehumidifier, sized correctly for the
+        space, with proper drainage, installed where it can actually do the job.
+      </p>
+      <p>
+        Sometimes the home needs more than that. A missing or damaged vapor barrier, standing
+        water, a ventilation issue that has to be addressed first. But in many cases the
+        dehumidifier is the thing that finally brings humidity under control and keeps it there.
+        It stops the mold growth. It protects the wood framing and subfloor. It gets rid of
+        the musty smell. And it takes the strain off the HVAC system so it is not working
+        overtime trying to handle moisture it was never designed for.
+      </p>
+      <p>
+        I started Triangle Dehumidifiers to take everything I have learned about how homes
+        perform and put it to work solving humidity and ventilation problems for homeowners
+        across Wake County. Better indoor air quality. Better protection for the structure
+        of the home. That is what this is about.
+      </p>
+    </div>
+  </section>
+
+  <!-- WHAT WE LOOK AT -->
+  <section class="svc-section svc-section--alt">
+    <div class="container">
+      <h2>How We Approach Every Home</h2>
+      <p>
+        When I come out to inspect a home, I am not just looking at the crawl space. I am
+        looking at the whole picture. Where is the moisture coming from. How is it moving
+        through the house. What is the HVAC system doing and what is it not doing. What
+        condition is the vapor barrier in. Is there water intrusion or just high relative
+        humidity. Are there ventilation issues contributing to the problem.
+      </p>
+      <p>
+        That diagnostic approach comes from 16 years of testing homes with blower doors,
+        duct blasters, flow hoods, and thermal imaging cameras. It is the difference between
+        guessing what a home needs and actually measuring it.
+      </p>
+      <p>
+        A dehumidifier that is undersized, put in the wrong spot, or fighting against a
+        moisture source that has not been corrected is going to run nonstop, drive up the
+        electric bill, and still not keep humidity where it needs to be. Getting it right
+        means understanding the home first.
+      </p>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="svc-section">
+    <div class="container">
+      <h2>What We Do</h2>
+      <p>
+        Triangle Dehumidifiers provides humidity control services for homeowners across Raleigh
+        and Wake County. Here is what we work on:
+      </p>
+      <ul class="svc-checklist">
+        <li><a href="/crawl-space-dehumidifier-raleigh-nc">Crawl space dehumidifier installation</a> for vented and unvented crawl spaces</li>
+        <li><a href="/encapsulated-crawl-space-dehumidifier-raleigh-nc">Encapsulated crawl space dehumidifiers</a> for sealed and conditioned crawl spaces</li>
+        <li><a href="/whole-house-dehumidifier-raleigh">Whole house dehumidifier installation</a> for homes where humidity is a problem on every level</li>
+        <li><a href="/erv-installation-raleigh-nc">ERV installation</a> for fresh air ventilation in tight homes that need balanced airflow</li>
+        <li><a href="/crawl-space-mold-treatment-raleigh">Crawl space mold treatment</a> using EPA-registered products combined with moisture correction so it does not come back</li>
+      </ul>
+      <p>
+        Every job starts with a free in-person inspection. I come out, take measurements, look at
+        the actual conditions, and give you an honest recommendation based on what your home needs.
+        If a dehumidifier is the right call I will tell you exactly why. If something else needs
+        to happen first I will tell you that too.
+      </p>
+    </div>
+  </section>
+
+  <!-- SERVICE AREA -->
+  <section class="svc-section svc-section--alt">
+    <div class="container">
+      <h2>Where We Work</h2>
+      <p>
+        We are based in Holly Springs, NC and serve homeowners throughout Wake County and the
+        surrounding area:
+      </p>
+      <ul class="svc-checklist">
+        <li><a href="/crawl-space-dehumidifier-raleigh-nc">Raleigh</a></li>
+        <li><a href="/crawl-space-dehumidifier-holly-springs-nc">Holly Springs</a></li>
+        <li><a href="/crawl-space-dehumidifier-cary-nc">Cary</a></li>
+        <li><a href="/crawl-space-dehumidifier-apex-nc">Apex</a></li>
+        <li><a href="/crawl-space-dehumidifier-fuquay-varina-nc">Fuquay-Varina</a></li>
+        <li>Garner, Morrisville, Wake Forest, Knightdale, Durham, and Chapel Hill</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="svc-cta">
+    <div class="container svc-cta__inner">
+      <h2>Schedule a Free Inspection</h2>
+      <p>
+        If your home has a humidity problem or you are not sure whether it does,
+        I am happy to come take a look. No charge for the inspection and no pressure.
+      </p>
+      <a href="/contact" class="btn btn-green">Request Inspection</a>
+      <span class="svc-cta__trust">Fully insured. Locally owned in Holly Springs, NC.</span>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,45 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildBusinessSchema, ALL_AREAS_SERVED } from '../schemas/business';
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'HomeAndConstructionBusiness',
-  '@id': 'https://www.triangledehumidifiers.com/#business',
-  name: 'Triangle Dehumidifiers, LLC',
-  telephone: '(919) 867-0580',
-  url: 'https://www.triangledehumidifiers.com',
-  image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
-  logo: {
-    '@type': 'ImageObject',
-    url: 'https://www.triangledehumidifiers.com/logo.webp',
-  },
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Holly Springs',
-    addressRegion: 'NC',
-    postalCode: '27540',
-    addressCountry: 'US',
-  },
-  hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '5.0',
-    reviewCount: '19',
-  },
-  sameAs: [
-    'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
-    'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  ],
-  areaServed: [
-    { '@type': 'City', name: 'Raleigh' },
-    { '@type': 'City', name: 'Holly Springs' },
-    { '@type': 'City', name: 'Cary' },
-    { '@type': 'City', name: 'Apex' },
-    { '@type': 'City', name: 'Fuquay-Varina' },
-    { '@type': 'City', name: 'Morrisville' },
-  ],
-  serviceType: 'ERV Installation Raleigh NC',
-};
+const schema = buildBusinessSchema({
+  areaServed: ALL_AREAS_SERVED,
+});
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
@@ -704,6 +669,15 @@ const faqSchema = {
         </details>
       </div>
     </div>
+  </section>
+
+  <!-- RELATED READING -->
+  <section class="container" style="padding-block:2rem;">
+    <h2 style="font-size:1.35rem;margin-bottom:1rem;">Related Reading</h2>
+    <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:.75rem;">
+      <li><a href="/blog/new-home-humidity-problems-raleigh-nc">Do New Homes Need Dehumidifiers? Raleigh, NC Guide</a></li>
+      <li><a href="/blog/signs-your-home-has-humidity-problem">5 Signs Your Home Has a Humidity Problem</a></li>
+    </ul>
   </section>
 
   <!-- BOTTOM CTA -->

@@ -68,7 +68,7 @@ Without a dehumidifier, an encapsulated crawl space can still accumulate moistur
 
 ### What Happens If You Only Install a Dehumidifier?
 
-A dehumidifier in a vented, un-encapsulated crawl space is fighting a losing battle. The unit will run continuously, driving up your energy bills, and it may still fail to maintain safe humidity levels during Raleigh's hottest and most humid months from June through September. The Advanced Energy Study found that homes in our region can reduce energy costs by up to 15 percent with proper encapsulation, savings that are lost when a dehumidifier runs nonstop in an open crawl space.
+A dehumidifier in a vented, un-encapsulated crawl space is fighting a losing battle. The unit will run continuously, driving up your energy bills, and it may still fail to maintain safe humidity levels during Raleigh's hottest and most humid months from June through September. An Advanced Energy study of 12 central North Carolina homes found that closed crawl spaces use 15–18% less energy for heating and cooling than identical homes with vented crawl spaces — savings that are lost when a dehumidifier runs nonstop in an open crawl space.
 
 ---
 
@@ -122,7 +122,7 @@ No. Residential portable dehumidifiers are not designed for crawl space conditio
 The ideal range is 45 to 55 percent relative humidity. Anything above 60 percent creates conditions for mold growth, and anything above 70 percent can accelerate wood rot and attract pests like termites.
 
 **How long does encapsulation last?**
-A properly installed encapsulation system with a quality vapor barrier should last 15 to 25 years. The dehumidifier will typically need replacement every 8 to 12 years depending on the unit and operating conditions.
+A properly installed encapsulation system with a quality vapor barrier should last 15 to 25 years. The dehumidifier will typically need replacement every 7 to 10 years depending on the unit and operating conditions.
 
 ---
 

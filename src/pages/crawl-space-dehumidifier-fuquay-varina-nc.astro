@@ -1,42 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildBusinessSchema, cityArea } from '../schemas/business';
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'HomeAndConstructionBusiness',
-  '@id': 'https://www.triangledehumidifiers.com/#business',
-  name: 'Triangle Dehumidifiers, LLC',
-  telephone: '(919) 867-0580',
-  url: 'https://www.triangledehumidifiers.com',
-  image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
-  logo: {
-    '@type': 'ImageObject',
-    url: 'https://www.triangledehumidifiers.com/logo.webp',
-  },
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Holly Springs',
-    addressRegion: 'NC',
-    postalCode: '27540',
-    addressCountry: 'US',
-  },
-  hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '5.0',
-    reviewCount: '19',
-  },
-  sameAs: [
-    'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
-    'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  ],
-  areaServed: 'Fuquay-Varina, NC',
-  serviceType: 'Crawl Space Dehumidifier Installation',
+const schema = buildBusinessSchema({
+  areaServed: cityArea('Fuquay-Varina'),
   description:
     'Professional crawl space dehumidifier installation for homes in Fuquay-Varina, NC. Maintains 45–50% RH to prevent mold, wood rot, and musty odors.',
-  priceRange: '$$',
-  openingHours: 'Mo-Fr 08:00-17:00',
-};
+});
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -79,7 +49,7 @@ const faqSchema = {
       name: 'How long does installation take?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Most crawl space dehumidifier installations in Fuquay-Varina are completed in one day. The process covers evaluation, equipment sizing, installation, condensate drain line routing, and humidity verification. Homes needing mold treatment may require additional time.',
+        text: 'Installation timelines vary by project scope. The process covers evaluation, equipment sizing, installation, condensate drain line routing, and humidity verification. Homes needing mold treatment may require additional time.',
       },
     },
   ],
@@ -476,7 +446,7 @@ const faqSchema = {
         <details class="faq-item">
           <summary>How long does installation take?</summary>
           <p>
-            Most installations in Fuquay-Varina are completed in a single day. We evaluate the crawl
+            Installation timelines vary by project scope. We evaluate the crawl
             space, size the equipment, install the unit with a permanent condensate drain line, and
             verify humidity levels before finishing. Homes requiring <a
               href="/crawl-space-mold-treatment-raleigh">mold treatment</a
@@ -485,6 +455,15 @@ const faqSchema = {
         </details>
       </div>
     </div>
+  </section>
+
+  <!-- RELATED READING -->
+  <section class="container" style="padding-block:2rem;">
+    <h2 style="font-size:1.35rem;margin-bottom:1rem;">Related Reading</h2>
+    <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:.75rem;">
+      <li><a href="/blog/why-raleigh-homes-have-humidity-problems">Why Raleigh Homes Have Humidity Problems</a></li>
+      <li><a href="/blog/dehumidifier-cost-raleigh-nc">Dehumidifier Cost in Raleigh, NC (2026 Pricing)</a></li>
+    </ul>
   </section>
 
   <!-- BOTTOM CTA -->

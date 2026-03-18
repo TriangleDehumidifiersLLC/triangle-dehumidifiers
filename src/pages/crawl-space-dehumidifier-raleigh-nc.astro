@@ -1,44 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildBusinessSchema, cityArea } from '../schemas/business';
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'HomeAndConstructionBusiness',
-  '@id': 'https://www.triangledehumidifiers.com/#business',
-  name: 'Triangle Dehumidifiers, LLC',
-  telephone: '(919) 867-0580',
-  url: 'https://www.triangledehumidifiers.com',
-  image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
-  logo: {
-    '@type': 'ImageObject',
-    url: 'https://www.triangledehumidifiers.com/logo.webp',
-  },
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Holly Springs',
-    addressRegion: 'NC',
-    postalCode: '27540',
-    addressCountry: 'US',
-  },
-  hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '5.0',
-    reviewCount: '19',
-  },
-  sameAs: [
-    'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
-    'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  ],
-  areaServed: {
-    '@type': 'City',
-    name: 'Raleigh',
-    containedInPlace: { '@type': 'State', name: 'North Carolina' },
-  },
-  serviceType: 'Crawl Space Dehumidifier Installation',
-  priceRange: '$$',
-  openingHours: 'Mo-Fr 08:00-17:00',
-};
+const schema = buildBusinessSchema({
+  areaServed: cityArea('Raleigh'),
+});
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -73,7 +39,7 @@ const faqSchema = {
       name: 'Can crawl space humidity affect indoor air quality in my Raleigh home?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Up to 50% of the air circulating on your first floor rises from the crawl space through a process called the stack effect. High crawl space humidity pushes mold spores, musty odors, and excess moisture upward into living areas through floor penetrations, plumbing chases, and duct systems.',
+        text: 'In older homes, up to 50% of the air circulating on your first floor can rise from the crawl space through a process called the stack effect. High crawl space humidity pushes mold spores, musty odors, and excess moisture upward into living areas through floor penetrations, plumbing chases, and duct systems.',
       },
     },
     {
@@ -81,7 +47,7 @@ const faqSchema = {
       name: 'How long does crawl space dehumidifier installation take in Raleigh?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Most installations are completed in a single day. The process includes a crawl space evaluation, equipment sizing, unit installation, condensate drain line routing, and RH verification. Homes with existing mold may require additional surface treatment before or alongside installation.',
+        text: 'Installation timelines vary by project scope. The process includes a crawl space evaluation, equipment sizing, unit installation, condensate drain line routing, and RH verification. Homes with existing mold may require additional surface treatment before or alongside installation.',
       },
     },
     {
@@ -681,7 +647,7 @@ const faqSchema = {
         <details class="faq-item">
           <summary>Can crawl space humidity affect indoor air quality?</summary>
           <p>
-            Up to 50% of the air circulating on your first floor rises from the crawl space through
+            In older homes, up to 50% of the air circulating on your first floor can rise from the crawl space through
             a process called the stack effect. High crawl space humidity pushes mold spores, musty
             odors, and excess moisture upward into living areas through floor penetrations, plumbing
             chases, and duct systems.
@@ -690,7 +656,7 @@ const faqSchema = {
         <details class="faq-item">
           <summary>How long does crawl space dehumidifier installation take?</summary>
           <p>
-            Most installations are completed in a single day. The process includes a crawl space
+            Installation timelines vary by project scope. The process includes a crawl space
             evaluation, equipment sizing, unit installation, condensate drain line routing, and RH
             verification. Homes with existing mold may require additional <a
               href="/crawl-space-mold-treatment-raleigh">surface treatment</a
@@ -740,6 +706,16 @@ const faqSchema = {
         </details>
       </div>
     </div>
+  </section>
+
+  <!-- RELATED READING -->
+  <section class="container" style="padding-block:2rem;">
+    <h2 style="font-size:1.35rem;margin-bottom:1rem;">Related Reading</h2>
+    <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:.75rem;">
+      <li><a href="/blog/why-raleigh-homes-have-humidity-problems">Why Raleigh Homes Have Humidity Problems</a></li>
+      <li><a href="/blog/dehumidifier-cost-raleigh-nc">Dehumidifier Cost in Raleigh, NC (2026 Pricing)</a></li>
+      <li><a href="/blog/crawl-space-encapsulation-vs-dehumidifier-raleigh">Encapsulation vs. Dehumidifier: What Raleigh Homes Need</a></li>
+    </ul>
   </section>
 
   <!-- BOTTOM CTA -->

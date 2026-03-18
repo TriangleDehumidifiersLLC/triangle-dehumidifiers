@@ -1,61 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildBusinessSchema, EXTENDED_AREAS_SERVED } from '../schemas/business';
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'HomeAndConstructionBusiness',
-  '@id': 'https://www.triangledehumidifiers.com/#business',
-  name: 'Triangle Dehumidifiers, LLC',
-  telephone: '(919) 867-0580',
+const schema = buildBusinessSchema({
   email: 'info@triangledehumidifiers.com',
-  url: 'https://www.triangledehumidifiers.com',
-  image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
-  logo: {
-    '@type': 'ImageObject',
-    url: 'https://www.triangledehumidifiers.com/logo.webp',
-  },
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Holly Springs',
-    addressRegion: 'NC',
-    postalCode: '27540',
-    addressCountry: 'US',
-  },
-  hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '5.0',
-    reviewCount: '19',
-  },
-  areaServed: [
-    { '@type': 'City', name: 'Raleigh' },
-    { '@type': 'City', name: 'Cary' },
-    { '@type': 'City', name: 'Apex' },
-    { '@type': 'City', name: 'Holly Springs' },
-    { '@type': 'City', name: 'Fuquay-Varina' },
-    { '@type': 'City', name: 'Morrisville' },
-    { '@type': 'City', name: 'Garner' },
-    { '@type': 'City', name: 'Wake Forest' },
-    { '@type': 'City', name: 'Knightdale' },
-    { '@type': 'City', name: 'Durham' },
-    { '@type': 'City', name: 'Chapel Hill' },
-    { '@type': 'City', name: 'Pittsboro' },
-    { '@type': 'City', name: 'Clayton' },
-  ],
-  sameAs: [
-    'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
-    'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  ],
-  serviceType: [
-    'Crawl Space Dehumidifier Installation',
-    'Whole-Home Dehumidifier Installation',
-    'Crawl Space Encapsulation',
-    'Crawl Space Mold Treatment',
-    'ERV Ventilation Installation',
-  ],
-  priceRange: '$$',
-  openingHours: 'Mo-Fr 08:00-17:00',
-};
+  areaServed: EXTENDED_AREAS_SERVED,
+});
 ---
 
 <BaseLayout

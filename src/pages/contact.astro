@@ -1,58 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { buildBusinessSchema, ALL_AREAS_SERVED } from '../schemas/business';
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'HomeAndConstructionBusiness',
-  '@id': 'https://www.triangledehumidifiers.com/#business',
-  name: 'Triangle Dehumidifiers, LLC',
-  telephone: '(919) 867-0580',
+const schema = buildBusinessSchema({
   email: 'info@triangledehumidifiers.com',
-  url: 'https://www.triangledehumidifiers.com',
-  image: 'https://www.triangledehumidifiers.com/images/hero-livingroom.webp',
-  logo: {
-    '@type': 'ImageObject',
-    url: 'https://www.triangledehumidifiers.com/logo.webp',
-  },
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Holly Springs',
-    addressRegion: 'NC',
-    postalCode: '27540',
-    addressCountry: 'US',
-  },
-  hasMap: 'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '5.0',
-    reviewCount: '19',
-  },
-  sameAs: [
-    'https://www.google.com/maps/place/Triangle+Dehumidifiers,+LLC/',
-    'https://maps.app.goo.gl/5ZNkdiqdTqKvNqTH9',
-  ],
-  areaServed: [
-    { '@type': 'City', name: 'Raleigh' },
-    { '@type': 'City', name: 'Cary' },
-    { '@type': 'City', name: 'Apex' },
-    { '@type': 'City', name: 'Holly Springs' },
-    { '@type': 'City', name: 'Fuquay-Varina' },
-    { '@type': 'City', name: 'Morrisville' },
-    { '@type': 'City', name: 'Garner' },
-    { '@type': 'City', name: 'Wake Forest' },
-    { '@type': 'City', name: 'Knightdale' },
-    { '@type': 'City', name: 'Durham' },
-    { '@type': 'City', name: 'Chapel Hill' },
-  ],
-  serviceType: [
-    'Crawl Space Dehumidifier Installation',
-    'Whole-Home Dehumidifier Installation',
-    'Crawl Space Mold Treatment',
-    'ERV Ventilation Installation',
-  ],
-  openingHours: 'Mo-Fr 08:00-17:00',
-  priceRange: '$$',
-};
+  areaServed: ALL_AREAS_SERVED,
+});
 ---
 
 <BaseLayout
@@ -224,8 +177,7 @@ const schema = {
             <h3>Hours and Response Time</h3>
             <ul class="contact-expect-list">
               <li>Office hours: Monday through Friday, 8am to 5pm</li>
-              <li>We respond to form submissions within 1 business day</li>
-              <li>Same-day phone and text responses during business hours</li>
+              <li>We try to respond to all inquiries same day, and by the next business day at the latest</li>
               <li>Fully insured. Wake County–based.</li>
             </ul>
           </div>

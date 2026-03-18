@@ -1,2 +1,36 @@
+# Consolidated page (from cannibalization fix)
 /crawl-space-dehumidifier-installation-raleigh /crawl-space-dehumidifier-raleigh-nc/ 301
 /crawl-space-dehumidifier-installation-raleigh/ /crawl-space-dehumidifier-raleigh-nc/ 301
+
+# Old "crawlspace" (no hyphen) URL variants — indexed before sitewide rename
+/crawlspace-dehumidifier-installation-raleigh /crawl-space-dehumidifier-raleigh-nc/ 301
+/crawlspace-dehumidifier-installation-raleigh/ /crawl-space-dehumidifier-raleigh-nc/ 301
+/crawlspace-mold-treatment-raleigh /crawl-space-mold-treatment-raleigh/ 301
+/crawlspace-mold-treatment-raleigh/ /crawl-space-mold-treatment-raleigh/ 301
+/encapsulated-crawlspace-dehumidifier-raleigh /encapsulated-crawl-space-dehumidifier-raleigh-nc/ 301
+/encapsulated-crawlspace-dehumidifier-raleigh/ /encapsulated-crawl-space-dehumidifier-raleigh-nc/ 301
+/encapsulated-crawlspace-dehumidifier-raleigh-nc /encapsulated-crawl-space-dehumidifier-raleigh-nc/ 301
+/encapsulated-crawlspace-dehumidifier-raleigh-nc/ /encapsulated-crawl-space-dehumidifier-raleigh-nc/ 301
+
+# Old short slug variants — from "clean URLs" era
+/crawlspace-closed /encapsulated-crawl-space-dehumidifier-raleigh-nc/ 301
+/crawlspace-closed/ /encapsulated-crawl-space-dehumidifier-raleigh-nc/ 301
+/crawlspace-vented /crawl-space-dehumidifier-raleigh-nc/ 301
+/crawlspace-vented/ /crawl-space-dehumidifier-raleigh-nc/ 301
+/mold-treatment /crawl-space-mold-treatment-raleigh/ 301
+/mold-treatment/ /crawl-space-mold-treatment-raleigh/ 301
+/whole-home /whole-house-dehumidifier-raleigh/ 301
+/whole-home/ /whole-house-dehumidifier-raleigh/ 301
+/erv /erv-installation-raleigh-nc/ 301
+/erv/ /erv-installation-raleigh-nc/ 301
+/ventilation /erv-installation-raleigh-nc/ 301
+/ventilation/ /erv-installation-raleigh-nc/ 301
+
+# Old full-length slugs from original build
+/erv-installation-raleigh /erv-installation-raleigh-nc/ 301
+/erv-installation-raleigh/ /erv-installation-raleigh-nc/ 301
+/whole-home-dehumidifier-installation-raleigh /whole-house-dehumidifier-raleigh/ 301
+/whole-home-dehumidifier-installation-raleigh/ /whole-house-dehumidifier-raleigh/ 301
+
+# Sitemap redirect
+/sitemap.xml /sitemap-index.xml 301

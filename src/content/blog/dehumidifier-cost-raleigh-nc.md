@@ -207,7 +207,7 @@ No — a dehumidifier can work in both encapsulated and vented crawl spaces. For
 
 ### How long does a crawl space dehumidifier last?
 
-A quality crawl space dehumidifier typically lasts **8–12 years** with regular maintenance — filter cleaning every 3–6 months and an annual inspection. Units in vented or extremely wet crawl spaces tend toward the lower end of that range.
+A quality crawl space dehumidifier typically lasts **7–10 years** with regular maintenance — filter cleaning every 3–6 months and an annual inspection. Units in vented or extremely wet crawl spaces tend toward the lower end of that range.
 
 ### What size dehumidifier do I need for my crawl space?
 
