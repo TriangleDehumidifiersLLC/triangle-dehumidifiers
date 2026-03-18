@@ -10,8 +10,10 @@ export default defineConfig({
     '/crawl-space-dehumidifier-installation-raleigh': '/crawl-space-dehumidifier-raleigh-nc/',
     '/crawlspace-dehumidifier-installation-raleigh': '/crawl-space-dehumidifier-raleigh-nc/',
     '/crawlspace-mold-treatment-raleigh': '/crawl-space-mold-treatment-raleigh/',
-    '/encapsulated-crawlspace-dehumidifier-raleigh': '/encapsulated-crawl-space-dehumidifier-raleigh-nc/',
-    '/encapsulated-crawlspace-dehumidifier-raleigh-nc': '/encapsulated-crawl-space-dehumidifier-raleigh-nc/',
+    '/encapsulated-crawlspace-dehumidifier-raleigh':
+      '/encapsulated-crawl-space-dehumidifier-raleigh-nc/',
+    '/encapsulated-crawlspace-dehumidifier-raleigh-nc':
+      '/encapsulated-crawl-space-dehumidifier-raleigh-nc/',
     '/crawlspace-closed': '/encapsulated-crawl-space-dehumidifier-raleigh-nc/',
     '/crawlspace-vented': '/crawl-space-dehumidifier-raleigh-nc/',
     '/mold-treatment': '/crawl-space-mold-treatment-raleigh/',
@@ -23,8 +25,7 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
-      filter: (page) =>
-        !page.includes('/thank-you') && !page.includes('/404'),
+      filter: (page) => !page.includes('/thank-you') && !page.includes('/404'),
       serialize(item) {
         item.lastmod = new Date();
         return item;
