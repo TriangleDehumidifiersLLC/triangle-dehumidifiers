@@ -25,7 +25,7 @@ From May through September, outdoor relative humidity in Raleigh averages betwee
 
 What this means for your home: the outdoor air pushing in through every vent, gap, and opening is loaded with moisture for five to six months of the year. Your home's envelope is under constant humidity pressure whether you notice it or not.
 
-Your air conditioner helps, but it was designed primarily to cool — not to dehumidify. An AC unit cycles on and off based on temperature. On mild summer days when the temperature doesn't trigger the unit to run long, humidity climbs even though the thermostat reads fine. A [whole-home dehumidifier](/whole-house-dehumidifier-raleigh/) works independently of your AC to maintain target humidity regardless of temperature.
+Your air conditioner helps, but it was designed primarily to cool — not to dehumidify. An AC unit cycles on and off based on temperature. On mild summer days when the temperature doesn't trigger the unit to run long, humidity climbs even though the thermostat reads fine. A [Whole-House dehumidifier](/whole-house-dehumidifier-raleigh/) works independently of your AC to maintain target humidity regardless of temperature.
 
 ---
 
@@ -88,7 +88,7 @@ Achieving proper control in a Raleigh home typically means:
 - **Sealing crawl space vents** to stop warm humid outdoor air from entering
 - **Installing a vapor barrier** to block ground moisture rising from clay soil
 - **Installing a properly sized crawl space dehumidifier** to maintain target RH
-- **Adding whole-home dehumidification** if living-area humidity remains elevated after the crawl space is controlled
+- **Adding Whole-House dehumidification** if living-area humidity remains elevated after the crawl space is controlled
 
 The right approach depends on your home's construction, crawl space size, existing vapor barrier, and measured humidity levels. That's why we always start with an inspection — not a sales pitch.
 
@@ -97,7 +97,7 @@ The right approach depends on your home's construction, crawl space size, existi
 <div class="blog-final-cta">
 <h3>Start With a Crawl Space Inspection</h3>
 <p>If your home was built with a vented crawl space and you're noticing musty odors, condensation, or floor movement, humidity is almost certainly the underlying issue. The good news: it's a solvable problem with the right system in place.</p>
-<p>We inspect crawl spaces and measure whole-home humidity conditions across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina.</p>
+<p>We inspect crawl spaces and measure Whole-House humidity conditions across Raleigh, Cary, Apex, Holly Springs, and Fuquay-Varina.</p>
 <div class="blog-final-cta-buttons">
 <a href="/contact/" class="btn btn-green btn-lg">Schedule a Crawl Space Inspection</a>
 <a href="tel:9198670580" class="btn-call btn-call--light" aria-label="Call Triangle Dehumidifiers at (919) 867-0580"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.6 3.18 2 2 0 0 1 3.59 1h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.96a16 16 0 0 0 5.89 5.89l.92-.92a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> (919) 867-0580</a>

@@ -96,7 +96,7 @@ Free inspections throughout the Triangle. Call or text (919) 867-0580.
 
 How much does a crawl space dehumidifier cost in Raleigh?
 
-Most homeowners are surprised — installed pricing for a professional crawl space dehumidifier in the Triangle runs $3,000–$5,000. Whole-home systems that tie into your HVAC run $3,000–$6,000.
+Most homeowners are surprised — installed pricing for a professional crawl space dehumidifier in the Triangle runs $3,000–$5,000. Whole-House systems that tie into your HVAC run $3,000–$6,000.
 
 The difference depends on whether your crawl space is already sealed, the size of the space, and which AprilAire model is right for your home.
 
@@ -114,7 +114,7 @@ Free inspections throughout the Triangle. Call or text (919) 867-0580.
 **Variation A:**
 Crawl space dehumidifier pricing in the Triangle — what you'll actually pay in 2026.
 
-Installed cost for a professional crawl space dehumidifier runs $3,000–$5,000 in Wake County. Whole-home systems: $3,000–$6,000. Full encapsulation + dehumidifier: $7,500–$15,000.
+Installed cost for a professional crawl space dehumidifier runs $3,000–$5,000 in Wake County. Whole-House systems: $3,000–$6,000. Full encapsulation + dehumidifier: $7,500–$15,000.
 
 We put together a full guide with real local pricing, not national averages.
 
@@ -141,7 +141,7 @@ Call or text (919) 867-0580 for a free inspection.
 The #1 question we get before every inspection: "How much is this going to cost?"
 
 Crawl space dehumidifier: $3,000–$5,000 installed.
-Whole-home dehumidifier: $3,000–$6,000 installed.
+Whole-House dehumidifier: $3,000–$6,000 installed.
 Full crawl space encapsulation + dehumidifier: $7,500–$15,000.
 
 All Wake County pricing, 2026. Full breakdown at the link.

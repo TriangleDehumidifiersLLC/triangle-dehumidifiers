@@ -1,6 +1,6 @@
 ---
 title: 'Dehumidifier Cost in Raleigh, NC (2026 Pricing)'
-description: 'Crawl space dehumidifier installs in Raleigh start at $3,000. Whole-home units run $3,000–$5,000. Real local pricing, free inspection.'
+description: 'Crawl space dehumidifier installs in Raleigh start at $3,000. Whole-House units run $3,000–$5,000. Real local pricing, free inspection.'
 date: '2026-03-15'
 dateModified: '2026-03-15'
 author: 'Nathan Rider'
@@ -10,7 +10,7 @@ tags:
   [
     'dehumidifier cost',
     'crawl space dehumidifier',
-    'whole home dehumidifier',
+    'whole house dehumidifier',
     'raleigh',
     'pricing guide',
   ]
@@ -18,7 +18,7 @@ tags:
 
 <img src="/images/blog/aprilaire-crawl-space-dehumidifier-installed-raleigh-nc.webp" alt="AprilAire crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC" width="1200" height="675" loading="eager">
 
-> **Key takeaway:** A professionally installed **crawl space dehumidifier** in the Raleigh–Triangle area typically costs **$3,000–$5,000**, depending on whether the crawl space is already sealed or still vented. A **whole-home dehumidifier** integrated with your HVAC runs **$3,000–$6,000**. Which one you need depends on where your humidity problem starts.
+> **Key takeaway:** A professionally installed **crawl space dehumidifier** in the Raleigh–Triangle area typically costs **$3,000–$5,000**, depending on whether the crawl space is already sealed or still vented. A **Whole-House dehumidifier** integrated with your HVAC runs **$3,000–$6,000**. Which one you need depends on where your humidity problem starts.
 
 If you're dealing with musty odors, warped floors, a crawl space that feels like a sauna every summer, or a house that feels muggy even when the AC is running — a dehumidifier is probably part of the solution. The trouble is that most online pricing guides use national averages that don't reflect what things actually cost here in the Triangle, and very few explain the difference between the two main types of systems. This guide covers both, with real Raleigh-area pricing and honest advice on which one fits your situation.
 
@@ -37,7 +37,7 @@ Here's an honest breakdown of installed costs for both system types in the Ralei
 | Add a vapor barrier to a vented crawl space                                  | ~$1 per sq ft          |
 | Full crawl space encapsulation + dehumidifier                                | $7,500–$15,000         |
 
-**Whole-Home Dehumidifiers**
+**Whole-House Dehumidifiers**
 
 | Scenario                                            | Typical Installed Cost |
 | --------------------------------------------------- | ---------------------- |
@@ -76,7 +76,7 @@ Bigger units cost more — both for the unit itself and the electrical setup, si
 
 ### The Units We Install: AprilAire WiFi Dehumidifiers
 
-Triangle Dehumidifiers installs AprilAire's professional-grade WiFi dehumidifier line — the E80W, E100W, and E130W models for crawl space and whole-home applications. These aren't the box-store units you'll find at Home Depot. They're built for the conditions that Raleigh area homes actually deal with.
+Triangle Dehumidifiers installs AprilAire's professional-grade WiFi dehumidifier line — the E80W, E100W, and E130W models for crawl space and Whole-House applications. These aren't the box-store units you'll find at Home Depot. They're built for the conditions that Raleigh area homes actually deal with.
 
 <div style="display:flex;gap:1.5rem;margin:1.5rem 0;flex-wrap:wrap;">
   <img src="/images/blog/aprilaire-e100w-crawl-space-dehumidifier.webp" alt="AprilAire E100W WiFi crawl space dehumidifier" width="600" height="600" style="flex:1;min-width:200px;max-width:340px;object-fit:contain;border-radius:6px;">
@@ -122,24 +122,24 @@ This is one of the most common questions we get — and the honest answer is tha
 
 ---
 
-## Whole-Home Dehumidifiers: What They Cost and How They Work
+## Whole-House Dehumidifiers: What They Cost and How They Work
 
-A whole-home dehumidifier is a different animal from a crawl space unit. Instead of sitting in the crawl space and managing moisture at the source, it integrates directly with your HVAC system — typically installed at the air handler — and conditions the air circulating through your living spaces.
+A Whole-House dehumidifier is a different animal from a crawl space unit. Instead of sitting in the crawl space and managing moisture at the source, it integrates directly with your HVAC system — typically installed at the air handler — and conditions the air circulating through your living spaces.
 
 The unit pulls return air through a refrigerant-based coil, extracts the moisture, and sends drier, conditioned air back into the home's supply ductwork. Most systems are set to maintain a target humidity level (typically 45–55% RH) and run automatically, separate from or in coordination with your air conditioner.
 
-We install AprilAire's WiFi-enabled models here as well. The same app that lets you monitor your crawl space dehumidifier works with the whole-home units — so if you have both systems, you're managing your home's humidity from one place on your phone.
+We install AprilAire's WiFi-enabled models here as well. The same app that lets you monitor your crawl space dehumidifier works with the Whole-House units — so if you have both systems, you're managing your home's humidity from one place on your phone.
 
 **What affects the installed cost:**
 
 - **HVAC compatibility.** Newer systems with accessible return-air plenum connections are straightforward installs. Older systems or homes with limited duct access require more work.
-- **Unit capacity.** Whole-home units are sized by the square footage of the living space — not the crawl space. The E130W covers homes up to 7,200 sq ft; smaller homes may only need the E100W.
+- **Unit capacity.** Whole-House units are sized by the square footage of the living space — not the crawl space. The E130W covers homes up to 7,200 sq ft; smaller homes may only need the E100W.
 - **Duct routing.** If condensate drainage requires a long run or isn't near an existing drain point, that adds time and materials to the job.
-- **Electrical.** Most whole-home units require a dedicated circuit. If one isn't already present near the air handler, an electrician may need to be involved.
+- **Electrical.** Most Whole-House units require a dedicated circuit. If one isn't already present near the air handler, an electrician may need to be involved.
 
 ---
 
-## Crawl Space or Whole-Home: Which Do You Need?
+## Crawl Space or Whole-House: Which Do You Need?
 
 This is the question worth answering before you spend anything. The two systems solve different problems, and choosing the wrong one means the humidity issue persists even after installation.
 
@@ -147,10 +147,10 @@ This is the question worth answering before you spend anything. The two systems 
 | ---------------------------------------------------- | -------------------- | ------------------------------------------ |
 | Musty odor, especially near floors or lower level    | Crawl space moisture | Crawl space dehumidifier (± encapsulation) |
 | Mold or wood rot on floor joists, subfloor, or piers | Crawl space moisture | Crawl space dehumidifier + encapsulation   |
-| Mold or mildew on wall or ceiling surfaces           | Whole-house humidity | Whole-home dehumidifier                    |
-| Condensation on windows, walls, or cold surfaces     | Whole-house humidity | Whole-home dehumidifier                    |
-| Stuffy, muggy rooms even when AC is running          | Whole-house humidity | Whole-home dehumidifier                    |
-| High humidity readings on main floor (above 55% RH)  | Whole-house humidity | Whole-home dehumidifier                    |
+| Mold or mildew on wall or ceiling surfaces           | Whole-house humidity | Whole-House dehumidifier                   |
+| Condensation on windows, walls, or cold surfaces     | Whole-house humidity | Whole-House dehumidifier                   |
+| Stuffy, muggy rooms even when AC is running          | Whole-house humidity | Whole-House dehumidifier                   |
+| High humidity readings on main floor (above 55% RH)  | Whole-house humidity | Whole-House dehumidifier                   |
 | Both crawl space moisture AND muggy living spaces    | Both sources         | Both systems                               |
 
 The two systems are not mutually exclusive. In many Raleigh-area homes — particularly older homes in Garner, Knightdale, and southern Wake County with vented crawl spaces — we find both a structurally wet crawl space and a whole-house humidity issue. Addressing only one leaves the other unresolved.
@@ -159,17 +159,17 @@ The two systems are not mutually exclusive. In many Raleigh-area homes — parti
 
 ## What the Installation Process Looks Like
 
-Whether you're installing a crawl space unit, a whole-home system, or both, the process at Triangle Dehumidifiers follows the same consistent sequence:
+Whether you're installing a crawl space unit, a Whole-House system, or both, the process at Triangle Dehumidifiers follows the same consistent sequence:
 
-1. **Free inspection.** For a crawl space installation, we assess your humidity levels, square footage, access points, existing vapor barrier condition, and drainage options. For a whole-home system, we evaluate your HVAC setup, living space square footage, and current indoor RH readings. This is where unit type, sizing, and project scope are determined — not guessed.
+1. **Free inspection.** For a crawl space installation, we assess your humidity levels, square footage, access points, existing vapor barrier condition, and drainage options. For a Whole-House system, we evaluate your HVAC setup, living space square footage, and current indoor RH readings. This is where unit type, sizing, and project scope are determined — not guessed.
 
 2. **Recommendation and quote.** You receive a written quote covering the unit, installation, drainage setup, and any prep work needed. No surprises.
 
-3. **Installation day.** Crawl space installs: the unit is mounted on blocks to elevate it off the ground, positioned for optimal airflow coverage, and plugged into a dedicated electrical outlet in the crawl space. The condensate pump and drain line are run to a suitable discharge point. For vented crawl spaces, foundation vents are closed as part of the installation. Whole-home installs: the unit is integrated with the air handler, connected to the return-air plenum, and wired to a dedicated circuit.
+3. **Installation day.** Crawl space installs: the unit is mounted on blocks to elevate it off the ground, positioned for optimal airflow coverage, and plugged into a dedicated electrical outlet in the crawl space. The condensate pump and drain line are run to a suitable discharge point. For vented crawl spaces, foundation vents are closed as part of the installation. Whole-House installs: the unit is integrated with the air handler, connected to the return-air plenum, and wired to a dedicated circuit.
 
 4. **Commissioning and calibration.** Every unit is set to your home's specific target — typically 45–50% RH — and tested before we leave. We verify the system is pulling moisture and draining correctly.
 
-5. **Walk-through.** We show you how to read the display, clean the filter (typically every 3–6 months for crawl space units; annually for whole-home), and what to watch for between inspections.
+5. **Walk-through.** We show you how to read the display, clean the filter (typically every 3–6 months for crawl space units; annually for Whole-House), and what to watch for between inspections.
 
 ---
 
@@ -193,13 +193,13 @@ This is why Triangle Dehumidifiers recommends units rated for the actual humidit
 
 Triangle Dehumidifiers' installed pricing runs **$3,000–$4,000** for a crawl space that's already encapsulated, and **$3,000–$5,000** for a vented crawl space where we close the foundation vents as part of the job. If you want to add a vapor barrier to a vented crawl space, that's approximately **$1 per square foot** on top of the dehumidifier installation. The best way to get a firm number is a free on-site inspection — crawl space size, height, and access all affect the final quote.
 
-### How much does a whole-home dehumidifier cost installed in Raleigh, NC?
+### How much does a Whole-House dehumidifier cost installed in Raleigh, NC?
 
-Triangle Dehumidifiers installs whole-home systems at **$3,000–$5,000** for a standard HVAC integration, and **$4,000–$6,000** for more complex or older systems that require additional ductwork or electrical setup. All pricing is confirmed after a free assessment.
+Triangle Dehumidifiers installs Whole-House systems at **$3,000–$5,000** for a standard HVAC integration, and **$4,000–$6,000** for more complex or older systems that require additional ductwork or electrical setup. All pricing is confirmed after a free assessment.
 
-### Do I need a crawl space dehumidifier, a whole-home dehumidifier, or both?
+### Do I need a crawl space dehumidifier, a Whole-House dehumidifier, or both?
 
-It depends on where your humidity problem is coming from. Musty odors, mold on floor joists, or structural moisture issues point to a crawl space problem — a crawl space dehumidifier (and often encapsulation) addresses that directly. If your living spaces feel muggy, you have condensation on windows, or your whole house reads above 55% RH even with the AC running, a whole-home system is the right fit. Some homes need both, particularly older homes in the Triangle with vented crawl spaces and undersized HVAC systems.
+It depends on where your humidity problem is coming from. Musty odors, mold on floor joists, or structural moisture issues point to a crawl space problem — a crawl space dehumidifier (and often encapsulation) addresses that directly. If your living spaces feel muggy, you have condensation on windows, or your whole house reads above 55% RH even with the AC running, a Whole-House system is the right fit. Some homes need both, particularly older homes in the Triangle with vented crawl spaces and undersized HVAC systems.
 
 ### Do I need crawl space encapsulation before installing a dehumidifier?
 
@@ -225,7 +225,7 @@ Here's what we know after inspecting homes across Wake County: moisture problems
 
 The good news is that this is a completely solvable problem. A properly installed AprilAire dehumidifier — sized for your specific crawl space or home, set to your target humidity, and monitored from your phone — handles it automatically. You stop thinking about it.
 
-We offer free inspections throughout the Triangle. We'll measure your crawl space, check your current humidity levels, look at your existing setup, and give you a written quote for exactly what we'd recommend — crawl space unit, whole-home, or both. No upsells, no scare tactics. Just a clear answer.
+We offer free inspections throughout the Triangle. We'll measure your crawl space, check your current humidity levels, look at your existing setup, and give you a written quote for exactly what we'd recommend — crawl space unit, Whole-House, or both. No upsells, no scare tactics. Just a clear answer.
 
 Most homeowners who call us are surprised by two things: how straightforward the fix is, and how much better their home feels afterward.
 

@@ -148,7 +148,7 @@ Or simpler: just add `/` to every canonical prop value in each page.
 
 ## Issue #6: Blog Title Tag Too Long
 
-**Current:** "How Much Does a Dehumidifier Cost in Raleigh, NC? (Crawl Space & Whole-Home Pricing Guide) | Triangle Dehumidifiers Blog" (124 chars)
+**Current:** "How Much Does a Dehumidifier Cost in Raleigh, NC? (Crawl Space & Whole-House Pricing Guide) | Triangle Dehumidifiers Blog" (124 chars)
 
 **Recommended:** "Dehumidifier Cost in Raleigh NC | Triangle Dehumidifiers" (55 chars)
 

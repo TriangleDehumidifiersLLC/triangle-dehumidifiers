@@ -401,7 +401,7 @@
 - [Encapsulation + Dehumidifiers: Why Both?](/blog/encapsulated-crawl-space-humidity) — How sealed crawl spaces still need humidity control
 - [How Much Does Crawl Space Encapsulation Cost in Wake County?](/blog/encapsulation-cost-roi) — Pricing breakdown for Holly Springs, Cary, Apex, and Fuquay-Varina
 - [AprilAire vs Santa Fe for Encapsulated Crawl Spaces](/blog/applaire-vs-santa-fe-comparison) — Choosing the right dehumidifier after encapsulation
-- [Home Energy Efficiency and Crawl Space Encapsulation](/peakenergync.com/services/crawl-space-encapsulation) — Encapsulation as part of whole-home energy upgrades (Peak Energy)
+- [Home Energy Efficiency and Crawl Space Encapsulation](/peakenergync.com/services/crawl-space-encapsulation) — Encapsulation as part of Whole-House energy upgrades (Peak Energy)
 ```
 
 ---
@@ -544,8 +544,8 @@ Each FAQ should:
 #### **1. Crawl Space Encapsulation Page** (`/crawl-space-encapsulation-raleigh-nc`)
 **Most natural linkage.**
 - Bottom of "Related Reading" or in body text:
-  - "For a whole-home energy audit to understand how crawl space moisture affects your HVAC efficiency and utility bills, [visit Peak Energy's home energy assessment service](https://peakenergync.com/services/home-energy-audit)."
-  - Or: "[Learn how crawl space encapsulation integrates with whole-home energy efficiency upgrades at Peak Energy.](https://peakenergync.com/services/crawl-space-encapsulation)"
+  - "For a Whole-House energy audit to understand how crawl space moisture affects your HVAC efficiency and utility bills, [visit Peak Energy's home energy assessment service](https://peakenergync.com/services/home-energy-audit)."
+  - Or: "[Learn how crawl space encapsulation integrates with Whole-House energy efficiency upgrades at Peak Energy.](https://peakenergync.com/services/crawl-space-encapsulation)"
 
 #### **2. Whole-House Dehumidifier Page** (`/whole-house-dehumidifier-raleigh`)
 **Natural fit for energy efficiency angle.**
@@ -560,13 +560,13 @@ Each FAQ should:
 #### **4. Homepage** (Optional)
 **Light mention only — don't oversell.**
 - Footer or sidebar (if applicable):
-  - "Part of the Peak Energy family of home comfort and efficiency services. [Learn more about whole-home solutions.](https://peakenergync.com)"
+  - "Part of the Peak Energy family of home comfort and efficiency services. [Learn more about Whole-House solutions.](https://peakenergync.com)"
 
 ---
 
 ### **Anchor Text Guidelines**
 
-- **Good:** "home energy assessment," "whole-home energy audit," "explore energy efficiency upgrades," "comprehensive HVAC and moisture evaluation"
+- **Good:** "home energy assessment," "Whole-House energy audit," "explore energy efficiency upgrades," "comprehensive HVAC and moisture evaluation"
 - **Avoid:** "Click here," "learn more" (generic), repeated exact phrases
 
 ---
@@ -654,12 +654,12 @@ Each FAQ should:
   - `/crawl-space-encapsulation-raleigh-nc` (main service)
   - `/encapsulated-crawl-space-dehumidifier-raleigh-nc` (paired dehumidification)
   - `/whole-house-dehumidifier-raleigh` (if mentioning energy savings affect HVAC)
-  - Peak Energy link (if discussing whole-home energy ROI)
+  - Peak Energy link (if discussing Whole-House energy ROI)
 - Suggested anchors:
   - "crawl space encapsulation service details"
   - "humidity control after encapsulation"
   - "HVAC efficiency improvements"
-  - "whole-home energy efficiency planning"
+  - "Whole-House energy efficiency planning"
 
 ---
 
@@ -822,7 +822,7 @@ Use this checklist to roll out the internal linking strategy:
 
 | Anchor 1 | Anchor 2 | Anchor 3 |
 |---|---|---|
-| home energy audit | whole-home efficiency assessment | energy efficiency planning |
+| home energy audit | Whole-House efficiency assessment | energy efficiency planning |
 | Peak Energy | visit Peak Energy | Peak Energy services |
 | energy savings | reduce utility costs | HVAC efficiency |
 
