@@ -4,7 +4,7 @@ description: 'Crawl space mold can cause allergies, respiratory issues, and fati
 date: '2026-03-21'
 dateModified: '2026-03-21'
 author: 'Nathan Rider'
-image: '/images/blog/wet-crawl-space-moisture-damage-raleigh-nc.webp'
+image: '/images/blog/crawl-space-dehumidifier-installation-raleigh-nc.webp'
 imageAlt: 'Wet crawl space showing moisture damage and mold risk in a Raleigh NC home'
 tags: ['crawl space mold', 'mold health risks', 'raleigh', 'indoor air quality', 'crawl space moisture']
 ---
@@ -97,7 +97,7 @@ Crawl space mold is one of the most common and most overlooked indoor air qualit
 
 Here is what you need to know about crawl space mold health risks, why homes in our area are especially vulnerable, and what actually works to fix it.
 
-<img src="/images/blog/wet-crawl-space-moisture-damage-raleigh-nc.webp" alt="Wet crawl space showing moisture damage and mold risk in a Raleigh NC home" width="1200" height="675" loading="eager">
+<img src="/images/blog/crawl-space-dehumidifier-installation-raleigh-nc.webp" alt="Wet crawl space showing moisture damage and mold risk in a Raleigh NC home" width="1200" height="675" loading="eager">
 
 ## How Crawl Space Mold Can Affect Your Health
 
@@ -182,7 +182,7 @@ Treating mold without addressing the moisture that caused it is a temporary fix 
 
 In our climate, a [crawl space dehumidifier](/crawl-space-dehumidifier-raleigh) is not optional — it is essential. Even in an encapsulated crawl space, summer humidity in the Triangle can overwhelm passive moisture barriers. A properly sized dehumidifier removes moisture continuously and keeps conditions well below the threshold where mold can grow.
 
-<img src="/images/blog/crawl-space-dehumidifier-installation-raleigh-nc.webp" alt="Crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC" width="1200" height="675" loading="lazy">
+<img src="/images/blog/wet-crawl-space-moisture-damage-raleigh-nc.webp" alt="Crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC" width="1200" height="675" loading="lazy">
 
 **Typical costs in the Raleigh area:** A professional crawl space dehumidifier, installed and configured, typically runs $3,000–$5,000 depending on the unit and crawl space size. Full encapsulation — which includes the vapor barrier, vent sealing, dehumidifier, and any necessary drainage — generally ranges from $5,000–$15,000 depending on the scope of work. Costs vary based on crawl space size, accessibility, and existing conditions, so a professional assessment is the best way to get an accurate estimate for your home.
 
