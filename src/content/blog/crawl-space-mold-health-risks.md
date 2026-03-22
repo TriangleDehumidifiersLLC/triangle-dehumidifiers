@@ -4,7 +4,7 @@ description: 'Crawl space mold can cause allergies, respiratory issues, and fati
 date: '2026-03-21'
 dateModified: '2026-03-21'
 author: 'Nathan Rider'
-image: '/images/blog/crawl-space-dehumidifier-installation-raleigh-nc.webp'
+image: '/images/blog/wet-crawl-space-moisture-damage-raleigh-nc.webp'
 imageAlt: 'Wet crawl space showing moisture damage and mold risk in a Raleigh NC home'
 tags: ['crawl space mold', 'mold health risks', 'raleigh', 'indoor air quality', 'crawl space moisture']
 ---
@@ -97,7 +97,7 @@ Crawl space mold is one of the most common and most overlooked indoor air qualit
 
 Here is what you need to know about crawl space mold health risks, why homes in our area are especially vulnerable, and what actually works to fix it.
 
-<img src="/images/blog/crawl-space-dehumidifier-installation-raleigh-nc.webp" alt="Wet crawl space showing moisture damage and mold risk in a Raleigh NC home" width="1200" height="675" loading="eager">
+<img src="/images/blog/wet-crawl-space-moisture-damage-raleigh-nc.webp" alt="Wet crawl space showing moisture damage and mold risk in a Raleigh NC home" width="1200" height="675" loading="eager">
 
 ## How Crawl Space Mold Can Affect Your Health
 
@@ -128,6 +128,28 @@ Warm air naturally rises. In your home, heated air moves upward and escapes thro
 Building science estimates suggest that up to 40–50% of the air on your first floor may have passed through the crawl space. That means any mold spores, moisture, musty odors, or volatile organic compounds in your crawl space can be drawn into your living space, through your HVAC system, and into every room of your home.
 
 This is why you can have a mold problem affecting your family's health without ever seeing a speck of mold in your kitchen, bathroom, or bedroom. The source is hidden below, but the effects can show up all around you.
+
+### Leaky Ducts: A Second Pathway Into Your Home
+
+The stack effect is one way crawl space air reaches your living areas — but it's not the only one. If your HVAC ductwork runs through the crawl space (as it does in many North Carolina homes), leaky ducts can pull contaminated crawl space air directly into the system and blow it throughout every room in your house.
+
+This isn't passive airflow. It's mechanical. When your HVAC system runs, it creates pressure differences inside the ductwork. Small gaps at duct joints, boot connections, or damaged flex duct sections can draw in unfiltered air from the crawl space — air that may carry mold spores, excess moisture, dust, and other contaminants. That air mixes with your conditioned air and gets distributed through every supply register in the home.
+
+A study published in the *Journal of Occupational and Environmental Hygiene* found that in roughly 1 in 5 homes studied, mold from the crawl space was transmitted into the living space — and the HVAC system was identified as one of the conduits for that transmission.
+
+#### Why This Matters for Your Health
+
+Even if your crawl space looks relatively dry, duct leaks can introduce enough moisture and mold spores to affect indoor air quality. You may not see visible mold upstairs, but airborne spore counts can still be elevated enough to trigger allergy symptoms, respiratory irritation, or aggravate asthma — especially in children and older adults.
+
+#### What You Can Do About It
+
+**Test your ducts.** A duct leakage test measures exactly how much air your ductwork is losing. A technician pressurizes the duct system to 25 pascals using a calibrated fan and manometer, then measures the airflow escaping through leaks (reported as CFM25). This tells you whether your ducts are reasonably tight or whether they're pulling in a significant amount of crawl space air. [Peak Energy offers duct leakage testing](https://peakenergync.com/duct-leakage-testing) as part of their home performance services — it's one of the most straightforward ways to find out if your ducts are part of the problem.
+
+**Seal the ducts.** Once leaks are identified, sealing them with mastic or approved tape at joints, boots, and connections can significantly reduce the amount of unfiltered crawl space air entering your HVAC system.
+
+**Add whole-house air filtration.** Even well-sealed ducts benefit from better filtration. A whole-house air purifier — like those from [Aprilaire](https://www.aprilaire.com/whole-house-products/air-purifiers) — installs directly into your HVAC system and filters all the air circulating through your home. Models with MERV 13 filters can capture particles down to 0.3 microns, which includes most mold spores (typically 2–10 microns in size). Higher-rated MERV 16 filters can capture 95% or more of particles in that range. This adds a layer of protection beyond duct sealing, catching any spores or allergens that do make it into the system.
+
+These steps work best together: encapsulating the crawl space reduces the source of moisture and mold, sealing the ducts limits how much crawl space air enters the HVAC system, and whole-house filtration catches what gets through. It's a layered approach — and for homes in the Triangle where humidity and crawl spaces are a given, each layer makes a real difference.
 
 ---
 
@@ -182,7 +204,7 @@ Treating mold without addressing the moisture that caused it is a temporary fix 
 
 In our climate, a [crawl space dehumidifier](/crawl-space-dehumidifier-raleigh) is not optional — it is essential. Even in an encapsulated crawl space, summer humidity in the Triangle can overwhelm passive moisture barriers. A properly sized dehumidifier removes moisture continuously and keeps conditions well below the threshold where mold can grow.
 
-<img src="/images/blog/wet-crawl-space-moisture-damage-raleigh-nc.webp" alt="Crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC" width="1200" height="675" loading="lazy">
+<img src="/images/blog/crawl-space-dehumidifier-installation-raleigh-nc.webp" alt="Crawl space dehumidifier installed in an encapsulated crawl space in Raleigh NC" width="1200" height="675" loading="lazy">
 
 **Typical costs in the Raleigh area:** A professional crawl space dehumidifier, installed and configured, typically runs $3,000–$5,000 depending on the unit and crawl space size. Full encapsulation — which includes the vapor barrier, vent sealing, dehumidifier, and any necessary drainage — generally ranges from $5,000–$15,000 depending on the scope of work. Costs vary based on crawl space size, accessibility, and existing conditions, so a professional assessment is the best way to get an accurate estimate for your home.
 
