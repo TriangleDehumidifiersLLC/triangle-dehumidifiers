@@ -7,9 +7,14 @@ description: Create a new blog post from finished content (draft markdown from C
 
 You are adding a new blog post to the Triangle Dehumidifiers website. The finished content has already been written in Cowork and is being handed off for implementation.
 
+## Before starting
+
+Run `git pull` to make sure the local repo is up to date before creating any files.
+
 ## What you need from the user
 
 Ask for:
+
 1. **The draft content** — either a file path or pasted markdown
 2. **The blog image** — file path to a .webp image, or confirmation to skip
 
@@ -25,7 +30,7 @@ Ask for:
 
 Every blog post must have this exact frontmatter structure:
 
-`yaml
+```yaml
 ---
 title: 'Post Title Here'
 description: 'Meta description (under 160 characters)'
@@ -36,9 +41,10 @@ image: '/images/blog/filename.webp'
 imageAlt: 'Descriptive alt text for the image'
 tags: ['tag1', 'tag2', 'raleigh']
 ---
-`
+```
 
 Rules:
+
 - `date` and `dateModified` are **strings**, not Date objects
 - `author` is always `Nathan Rider`
 - `tags` must always include `'raleigh'`
@@ -49,9 +55,15 @@ Rules:
 
 The first element after frontmatter should be the hero image:
 
-`html
-<img src="/images/blog/filename.webp" alt="Descriptive alt text" width="1200" height="675" loading="eager">
-`
+```html
+<img
+  src="/images/blog/filename.webp"
+  alt="Descriptive alt text"
+  width="1200"
+  height="675"
+  loading="eager"
+/>
+```
 
 - Hero image uses `loading="eager"`
 - All other images in the post use `loading="lazy"`
@@ -68,6 +80,7 @@ The first element after frontmatter should be the hero image:
 ### 5. Handle the image file
 
 If the user provides a blog image:
+
 - Copy or move it to `public/images/blog/`
 - Ensure it's `.webp` format
 - Use a descriptive filename with hyphens (e.g., `crawl-space-mold-treatment-raleigh-nc.webp`)
@@ -80,10 +93,10 @@ If the user provides a blog image:
 
 ### 7. Verify
 
-- Run `npx astro build` to confirm no build errors
-- Check that the new file appears in the build output
+- Run `npx astro check` to confirm no type or frontmatter errors
 
 ### 8. Commit
 
 - Stage only the new/changed files (blog post, image if added)
 - Commit message: `add {slug} blog post`
+
