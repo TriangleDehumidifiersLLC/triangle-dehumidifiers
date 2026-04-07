@@ -23,7 +23,7 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# Claude Code temporary files
+# Claude Code temp files
 tmpclaude-*
 .claude/worktrees/
 nul
